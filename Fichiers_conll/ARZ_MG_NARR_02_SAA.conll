@@ -94,7 +94,7 @@
 10	waqt	waqt	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=21294|AlignEnd=21632|nWord=8|GE=[temps].[Gender=Masc$Number=Sing]|Gloss=temps|RX=[NOUN]
 11	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=21632|AlignEnd=21802|nWord=9|GE=[Polarity=Neg]|Gloss=SubConj|RX=[PART]
 12	ʾistaḥmalt	ʾistaḥmalt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=21802|AlignEnd=21972|nWord=9|GE=[supporter].[Aspect=Perf$Number=Sing$Person=1]|Gloss=supporter|RX=[VERB]
-13	=oh		PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=21972|AlignEnd=22142|nWord=9|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
+13	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=21972|AlignEnd=22142|nWord=9|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
 14	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=22142|AlignEnd=22310|nWord=9|GE=[Polarity=Neg]|Gloss=NegationMarker|RX=[PART]
 
 # status=WIP
@@ -282,7 +282,7 @@
 6	jism	jism	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=64680|AlignEnd=65000|nWord=4|GE=[corps].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=corps|RX=[NOUN]
 7	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=65000|AlignEnd=65320|nWord=4|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|RX=[PRON]
 8	koll	koll	DET	_	_	_	_	_	AlignBegin=65320|AlignEnd=65640|nWord=5|GE=tout|Gloss=tout|RX=[DET]
-9	=oh		PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=65640|AlignEnd=65960|nWord=5|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
+9	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=65640|AlignEnd=65960|nWord=5|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
 
 # status=WIP
 # sent_id = ARZ_MG_NARR_02_SAA_17-17
@@ -453,7 +453,7 @@
 7	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=102080|AlignEnd=102525|nWord=4|GE=par|Gloss=par|RX=[ADP]
 8	koll	koll	DET	_	_	_	_	_	AlignBegin=102525|AlignEnd=102970|nWord=4|GE=tout|Gloss=tout|RX=[DET]
 9	tafāṣīl	tafāṣīl	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=102970|AlignEnd=103415|nWord=5|GE=[détail].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=détail|RX=[NOUN]
-10	=oh		PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=103415|AlignEnd=103860|nWord=5|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
+10	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=103415|AlignEnd=103860|nWord=5|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|RX=[PRON]
 11	laʾin	laʾin	CCONJ	_	_	_	_	_	AlignBegin=103860|AlignEnd=104056|nWord=6|GE=car|Gloss=car|RX=[CCONJ]
 12	=nī	=nī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=104056|AlignEnd=104252|nWord=6|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=me|RX=[PRON]
 13	faqadt	faqadt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=104252|AlignEnd=104644|nWord=7|GE=[perdre].[Aspect=Perf$Number=Sing$Person=1]|Gloss=perdre|RX=[VERB]
@@ -522,7 +522,7 @@
 2	ma=	ma=	ADP	_	_	_	_	_	AlignBegin=117076|AlignEnd=117454|nWord=2|GE=que|Gloss=que|RX=[ADP]
 3	faqadt	faqadt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=117454|AlignEnd=117832|nWord=2|GE=[perdre].[Aspect=Perf$Number=Sing$Person=1]|Gloss=perdre|RX=[VERB]
 4	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=117832|AlignEnd=118210|nWord=3|GE=[Definite=Def]|Gloss=Definiteness|RX=[DET]
-5	~		X	_	_	_	_	_	AlignBegin=118210|AlignEnd=118588|nWord=3|GE=[~]|Gloss=~|RX=[X]
+5	~	~	X	_	_	_	_	_	AlignBegin=118210|AlignEnd=118588|nWord=3|GE=[~]|Gloss=~|RX=[X]
 6	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=118588|AlignEnd=118966|nWord=4|GE=[Definite=Def]|Gloss=Definiteness|RX=[DET]
 7	waʿy	waʿy	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=118966|AlignEnd=119344|nWord=4|GE=[connaissance].[Gender=Masc$Number=Sing]|Gloss=connaissance|RX=[NOUN]
 8	w=	w=	CCONJ	_	_	_	_	_	AlignBegin=119344|AlignEnd=119722|nWord=5|GE=et|Gloss=et|RX=[CCONJ]
@@ -530,7 +530,7 @@
 10	talat	talat	NUM	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=120100|AlignEnd=120856|nWord=6|GE=[trois].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=trois|RX=[NUM]
 11	ʾayyām	ʾayyām	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	_	_	_	AlignBegin=120856|AlignEnd=121612|nWord=7|GE=[jour].[Definite=Ind$Gender=Masc$Number=Plur]|Gloss=jour|RX=[NOUN]
 12	fī=	fī=	ADP	_	_	_	_	_	AlignBegin=121612|AlignEnd=121864|nWord=8|GE=dans|Gloss=dans|RX=[ADP]
-13	l=		DET	_	Definite=Def	_	_	_	AlignBegin=121864|AlignEnd=122116|nWord=8|GE=[Definite=Def]|RX=[DET]
+13	l=	l=	DET	_	Definite=Def	_	_	_	AlignBegin=121864|AlignEnd=122116|nWord=8|GE=[Definite=Def]|RX=[DET]
 14	ġaybūba	ġaybūba	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=122116|AlignEnd=122367|nWord=8|GE=[coma].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=coma|RX=[NOUN]
 15	foqt	foqt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=122380|AlignEnd=123080|nWord=9|GE=[se_réveiller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=se_réveiller|RX=[VERB]
 16	w=	w=	CCONJ	_	_	_	_	_	AlignBegin=123080|AlignEnd=123313|nWord=10|GE=et|Gloss=et|RX=[CCONJ]
