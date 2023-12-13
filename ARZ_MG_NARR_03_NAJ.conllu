@@ -1,0 +1,1439 @@
+# sent_id = ARZ_MG_NARR_03_NAJ_01-02
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 0, 5470
+# phonetic_text = ʾanā ʿomrī ma= ma=ʾansā el= yūm dā kān waʾt wilādit ʾoḫt =ī el= ṣoġayyara
+# text = ʾanā ʿomrī mansā elyūm dā kān waʾt wilādit ʾoḫtī eṣṣoġayyara
+# text_fr =  je n'oublie jamais ce jour le moment d'accouchement de ma petite sœur§
+1	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=0|AlignEnd=604|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=1|RX=[PRON]
+2	ʿomrī	ʿomrī	ADV	_	_	_	_	_	AlignBegin=604|AlignEnd=1208|GE=jamais|Gloss=jamais|nWord=2|RX=[ADV]
+3	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=1208|AlignEnd=1510|GE=[Polarity=Neg]|Gloss=SubConj|nWord=3|RX=[PART]
+4	ʾansā	ʾansā	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=1510|AlignEnd=1812|GE=[oublier].[Aspect=Imp$Number=Sing$Person=1]|Gloss=oublier|nWord=3|RX=[VERB]
+5	el=	el=	DET	_	Definite=Def	6	det	_	AlignBegin=1812|AlignEnd=2114|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+6	yūm	yūm	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=2114|AlignEnd=2416|GE=[jour].[Gender=Masc$Number=Sing]|Gloss=jour|nWord=4|RX=[NOUN]
+7	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=2416|AlignEnd=3020|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=5|RX=[DET]
+8	kān	kān	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=3020|AlignEnd=3510|GE=[être].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=être|nWord=6|RX=[VERB]
+9	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=3510|AlignEnd=4000|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=7|RX=[NOUN]
+10	wilādit	wilādit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing|VerbForm=Vnoun	_	_	_	AlignBegin=4000|AlignEnd=4490|GE=[accouchement].[Definite=Cons$Gender=Fem$Number=Sing$VerbForm=Vnoun]|Gloss=accouchement|nWord=8|RX=[NOUN]
+11	ʾoḫt	ʾoḫt	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=4490|AlignEnd=4735|GE=[sœur].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=sœur|nWord=9|RX=[NOUN]
+12	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=4735|AlignEnd=4980|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=9|RX=[PRON]
+13	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=4980|AlignEnd=5225|GE=[Definite=Def]|Gloss=Definiteness|nWord=10|RX=[DET]
+14	ṣoġayyara	ṣoġayyara	ADJ	_	Gender=Fem|Number=Sin	_	_	_	AlignBegin=5225|AlignEnd=5470|GE=[petit].[Gender=Fem$Number=Sin]|Gloss=petit|nWord=10|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_03-03
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 5470, 7790
+# phonetic_text = b= b=ʾaḥiss ʾin el= yūm dā kān ʾimbāriḥ
+# text = bʾaḥiss ʾin elyūm dā kān ʾimbāriḥ
+# text_fr =  j'ai l'impression que ce jour était hier§
+1	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=5470|AlignEnd=5664|GE=[Mood=Ind]|nWord=1|RX=[AUX]
+2	ʾaḥiss	ʾaḥiss	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=5664|AlignEnd=5857|GE=[sentir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=sentir|nWord=1|RX=[VERB]
+3	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=5857|AlignEnd=6244|GE=[COMP]|Gloss=que|nWord=2|RX=[SCONJ]
+4	el=	el=	DET	_	Definite=Def	5	det	_	AlignBegin=6244|AlignEnd=6438|GE=[Definite=Def]|Gloss=Definiteness|nWord=3|RX=[DET]
+5	yūm	yūm	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=6438|AlignEnd=6631|GE=[jour].[Gender=Masc$Number=Sing]|Gloss=jour|nWord=3|RX=[NOUN]
+6	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=6631|AlignEnd=7018|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=4|RX=[DET]
+7	kān	kān	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=7018|AlignEnd=7405|GE=[être].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=être|nWord=5|RX=[VERB]
+8	ʾimbāriḥ	ʾimbāriḥ	ADV	_	_	_	_	_	AlignBegin=7405|AlignEnd=7790|GE=hier|Gloss=hier|nWord=6|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_04-05
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 7790, 16560
+# phonetic_text = kont mabsūṭa giddan lamma ʿirift ʾin māmā sāʿit =ha ḥāmil w= w=ʾin ḫalāṣ ha= yibʾa ʿand =ī ʾoḫt ṣoġayyara kida w= ʾalʿab maʿā =ha w= ʾatsalla w= kida w= waʾt =ī yibʾa malyān
+# text = kont mabsūṭa giddan lamma ʿirift ʾin māmā sāʿitha ḥāmil wʾin ḫalāṣ hayibʾa ʿandī ʾoḫt ṣoġayyara kida walʿab maʿāha watsalla wkida wwaʾtī yibʾa malyān
+# text_fr =  j'étais très contente quand j'ai appris à l'époque que ma mère était enceinte et que, finalement, j'aurai une petite sœur avec qui je vais jouer et m'amuser et que mon temps sera plein§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=7790|AlignEnd=8127|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	mabsūṭa	mabsūṭa	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=8127|AlignEnd=8464|GE=[content].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=content|nWord=2|RX=[ADJ]
+3	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=8464|AlignEnd=8801|GE=très|Gloss=très|nWord=3|RX=[ADV]
+4	lamma	lamma	SCONJ	_	_	_	_	_	AlignBegin=8801|AlignEnd=9138|GE=quand|Gloss=quand|nWord=4|RX=[SCONJ]
+5	ʿirift	ʿirift	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=9138|AlignEnd=9475|GE=[savoir].[Aspect=Perf$Number=Sing$Person=1]|Gloss=savoir|nWord=5|RX=[VERB]
+6	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=9475|AlignEnd=9812|GE=[COMP]|Gloss=que|nWord=6|RX=[SCONJ]
+7	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=9812|AlignEnd=10149|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=7|RX=[NOUN]
+8	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=10149|AlignEnd=10317|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=8|RX=[NOUN]
+9	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=10317|AlignEnd=10486|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=8|RX=[PRON]
+10	ḥāmil	ḥāmil	ADJ	_	Definite=Ind.Gender=Fem.Number=Sing|Number=Sing	_	_	_	AlignBegin=10486|AlignEnd=10820|GE=[enceinte].[Definite=Ind].[Gender=Fem].[Number=Sing]|Gloss=enceinte|nWord=9|RX=[ADJ]
+11	w=	w=	CCONJ	_	_	12	cc	_	AlignBegin=10820|AlignEnd=11025|GE=et|Gloss=et|nWord=10|RX=[CCONJ]
+12	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=11025|AlignEnd=11230|GE=[COMP]|Gloss=que|nWord=10|RX=[SCONJ]
+13	ḫalāṣ	ḫalāṣ	ADV	_	_	_	_	_	AlignBegin=11230|AlignEnd=11640|GE=finalement|Gloss=finalement|nWord=11|RX=[ADV]
+14	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=11640|AlignEnd=11845|GE=[Tense=Fut]|nWord=12|RX=[AUX]
+15	yibʾa	yibʾa	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=11845|AlignEnd=12050|GE=[devenir].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=devenir|nWord=12|RX=[VERB]
+16	ʿand	ʿand	ADP	_	_	_	_	_	AlignBegin=12050|AlignEnd=12255|GE=chez|Gloss=chez|nWord=13|RX=[ADP]
+17	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	16	comp:obj	_	AlignBegin=12255|AlignEnd=12460|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=13|RX=[PRON]
+18	ʾoḫt	ʾoḫt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=12460|AlignEnd=12870|GE=[sœur].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=sœur|nWord=14|RX=[NOUN]
+19	ṣoġayyara	ṣoġayyara	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=12870|AlignEnd=13280|GE=[petit].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=petit|nWord=15|RX=[ADJ]
+20	kida	kida	INTJ	_	_	_	_	_	AlignBegin=13280|AlignEnd=13690|GE=comme_ça|Gloss=comme_ça|nWord=16|RX=[INTJ]
+21	w=	w=	CCONJ	_	_	22	cc	_	AlignBegin=13690|AlignEnd=13895|GE=et|Gloss=et|nWord=17|RX=[CCONJ]
+22	ʾalʿab	ʾalʿab	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=13895|AlignEnd=14100|GE=[jour].[Aspect=Imp$Number=Sing$Person=1]|Gloss=jour|nWord=17|RX=[VERB]
+23	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=14100|AlignEnd=14305|GE=avec|Gloss=avec|nWord=18|RX=[ADP]
+24	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	comp:obj	_	AlignBegin=14305|AlignEnd=14510|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=18|RX=[PRON]
+25	w=	w=	CCONJ	_	_	26	cc	_	AlignBegin=14510|AlignEnd=14715|GE=et|Gloss=et|nWord=19|RX=[CCONJ]
+26	ʾatsalla	ʾatsalla	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=14715|AlignEnd=14920|GE=[s'amuser].[Aspect=Imp$Number=Sing$Person=1]|Gloss=s'amuser|nWord=19|RX=[VERB]
+27	w=	w=	CCONJ	_	_	28	cc	_	AlignBegin=14920|AlignEnd=15125|GE=et|Gloss=et|nWord=20|RX=[CCONJ]
+28	kida	kida	INTJ	_	_	_	_	_	AlignBegin=15125|AlignEnd=15330|GE=comme_ça|Gloss=comme_ça|nWord=20|RX=[INTJ]
+29	w=	w=	CCONJ	_	_	30	cc	_	AlignBegin=15330|AlignEnd=15467|GE=et|Gloss=et|nWord=21|RX=[CCONJ]
+30	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=15467|AlignEnd=15604|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=21|RX=[NOUN]
+31	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=15604|AlignEnd=15740|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=21|RX=[PRON]
+32	yibʾa	yibʾa	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=15740|AlignEnd=16150|GE=[devenir].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=devenir|nWord=22|RX=[VERB]
+33	malyān	malyān	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=16150|AlignEnd=16560|GE=[rempli].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=rempli|nWord=23|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_06-06
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 16567, 20466
+# phonetic_text = kont waʾta =ha fī tanya ʾiʿdādy lamma ʿirift ʾin māmā ḥāmil
+# text = kont waʾtaha fī tanya ʾiʿdādy lamma ʿirift ʾin māmā ḥāmil
+# text_fr =  j'étais en deuxième année collège à l'époque quand j'ai appris que ma mère était enceinte§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=16567|AlignEnd=16957|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	waʾta	waʾta	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=16957|AlignEnd=17152|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=2|RX=[NOUN]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=17152|AlignEnd=17347|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+4	fī	fī	ADP	_	_	_	_	_	AlignBegin=17347|AlignEnd=17737|GE=dans|Gloss=dans|nWord=3|RX=[ADP]
+5	tanya	tanya	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing|NumType=Ord	_	_	_	AlignBegin=17737|AlignEnd=18127|GE=[deuxième].[Definite=Ind$Gender=Fem$Number=Sing$NumType=Ord]|Gloss=deuxième|nWord=4|RX=[ADJ]
+6	ʾiʿdādy	ʾiʿdādy	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=18127|AlignEnd=18517|GE=[collège].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=collège|nWord=5|RX=[NOUN]
+7	lamma	lamma	SCONJ	_	_	_	_	_	AlignBegin=18517|AlignEnd=18907|GE=quand|Gloss=quand|nWord=6|RX=[SCONJ]
+8	ʿirift	ʿirift	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=18907|AlignEnd=19297|GE=[savoir].[Aspect=Perf$Number=Sing$Person=1]|Gloss=savoir|nWord=7|RX=[VERB]
+9	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=19297|AlignEnd=19687|GE=[COMP]|Gloss=que|nWord=8|RX=[SCONJ]
+10	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=19687|AlignEnd=20077|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=9|RX=[NOUN]
+11	ḥāmil	ḥāmil	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=20077|AlignEnd=20466|GE=[enceinte].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=enceinte|nWord=10|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_07-07
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 20470, 23510
+# phonetic_text = w= w=baʿdin gā waʾt el= wilāda w= kida
+# text = wbaʿdin gā waʾt elwilāda wkida
+# text_fr =  et puis il était temps d'accoucher§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=20470|AlignEnd=20774|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=20774|AlignEnd=21078|GE=après_ça|Gloss=après_ça|nWord=1|RX=[ADV]
+3	gā	gā	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=21078|AlignEnd=21686|GE=[venir].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=venir|nWord=2|RX=[VERB]
+4	waʾt	waʾt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=21686|AlignEnd=22294|GE=[temps].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=temps|nWord=3|RX=[NOUN]
+5	el=	el=	DET	_	Definite=Def	6	det	_	AlignBegin=22294|AlignEnd=22598|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+6	wilāda	wilāda	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Vnoun	_	_	_	AlignBegin=22598|AlignEnd=22902|GE=[accouchement].[Gender=Fem$Number=Sing$VerbForm=Vnoun]|Gloss=accouchement|nWord=4|RX=[NOUN]
+7	w=	w=	CCONJ	_	_	8	cc	_	AlignBegin=22902|AlignEnd=23206|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+8	kida	kida	INTJ	_	_	_	_	_	AlignBegin=23206|AlignEnd=23510|GE=comme_ça|Gloss=comme_ça|nWord=5|RX=[INTJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_08-08
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 23510, 24950
+# phonetic_text = ʾanā fakra el= el=yūm dā kowayyis
+# text = ʾanā fakra elyūm dā kowayyis
+# text_fr =  je me rappelle bien ce jour§
+1	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=23510|AlignEnd=23798|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=1|RX=[PRON]
+2	fakra	fakra	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=23798|AlignEnd=24086|GE=[se_rappeller].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=se_rappeller|nWord=2|RX=[NOUN]
+3	el=	el=	DET	_	Definite=Def	4	det	_	AlignBegin=24086|AlignEnd=24230|GE=[Definite=Def]|Gloss=Definiteness|nWord=3|RX=[DET]
+4	yūm	yūm	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=24230|AlignEnd=24374|GE=[jour].[Gender=Masc$Number=Sing]|Gloss=jour|nWord=3|RX=[NOUN]
+5	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=24374|AlignEnd=24662|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=4|RX=[DET]
+6	kowayyis	kowayyis	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=24662|AlignEnd=24950|GE=[bon].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=bon|nWord=5|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_09-09
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 24950, 27800
+# phonetic_text = sāʿit =ha bābā ḫad māmā rāḥ ʿand el= el=doktūr
+# text = sāʿitha bābā ḫad māmā rāḥ ʿand eddoktūr
+# text_fr =  à ce moment-là, papa et maman sont allés chez le médecin§
+1	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=24950|AlignEnd=25154|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=25154|AlignEnd=25357|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	bābā	bābā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=25357|AlignEnd=25764|GE=[papa].[Foreign=Yes]|Gloss=papa|nWord=2|RX=[NOUN]
+4	ḫad	ḫad	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=25764|AlignEnd=26171|GE=[prendre].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=prendre|nWord=3|RX=[VERB]
+5	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=26171|AlignEnd=26578|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=4|RX=[NOUN]
+6	rāḥ	rāḥ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=26578|AlignEnd=26985|GE=[aller].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=aller|nWord=5|RX=[VERB]
+7	ʿand	ʿand	ADP	_	_	_	_	_	AlignBegin=26985|AlignEnd=27392|GE=chez|Gloss=chez|nWord=6|RX=[ADP]
+8	el=	el=	DET	_	Definite=Def	9	det	_	AlignBegin=27392|AlignEnd=27596|GE=[Definite=Def]|Gloss=Definiteness|nWord=7|RX=[DET]
+9	doktūr	doktūr	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=27596|AlignEnd=27800|GE=[médecin].[Gender=Masc$Number=Sing]|Gloss=médecin|nWord=7|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_10-10
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 27810, 39120
+# phonetic_text = w= w=baʿdin ʾanā ṭabʿan kont ḥābba ʾarūḥ maʿā =ha waʾt el= wilāda w= kida rāḥ bābā ʾāl laʾ ma= yinfaʿ =š ʾintī el= kibīra w= el= bit baʾa mīn ha= yoʾʿod fī =h w= kida w= lāzim ʾantibih ʿali =h
+# text = wbaʿdin ʾanā ṭabʿan kont ḥābba ʾarūḥ maʿāha waʾt elwilāda wkida rāḥ bābā ʾāl laʾ mayinfaʿši ʾintī elkibīra welbit baʾa mīn hayoʾʿod fīh wkida wlāzim ʾantibih ʿalih
+# text_fr =  et puis, j'aurais bien sûr aimé aller avec elle le moment d'accouchement, mais papa me dit non§ tu es l'aînée et il faut que quelqu'un reste à la maison pour la faire attention
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=27810|AlignEnd=28028|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=28028|AlignEnd=28245|GE=après_ça|Gloss=après_ça|nWord=1|RX=[ADV]
+3	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=28245|AlignEnd=28680|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=2|RX=[PRON]
+4	ṭabʿan	ṭabʿan	ADV	_	_	_	_	_	AlignBegin=28680|AlignEnd=29115|GE=bien_sûr|Gloss=bien_sûr|nWord=3|RX=[ADV]
+5	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=29115|AlignEnd=29550|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=4|RX=[VERB]
+6	ḥābba	ḥābba	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=29550|AlignEnd=29985|GE=[aimer].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=aimer|nWord=5|RX=[NOUN]
+7	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=29985|AlignEnd=30420|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=6|RX=[VERB]
+8	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=30420|AlignEnd=30638|GE=avec|Gloss=avec|nWord=7|RX=[ADP]
+9	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=30638|AlignEnd=30855|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=7|RX=[PRON]
+10	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=30855|AlignEnd=31290|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=8|RX=[NOUN]
+11	el=	el=	DET	_	Definite=Def	12	det	_	AlignBegin=31290|AlignEnd=31508|GE=[Definite=Def]|Gloss=Definiteness|nWord=9|RX=[DET]
+12	wilāda	wilāda	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Vnoun	_	_	_	AlignBegin=31508|AlignEnd=31725|GE=[accouchement].[Gender=Fem$Number=Sing$VerbForm=Vnoun]|Gloss=accouchement|nWord=9|RX=[NOUN]
+13	w=	w=	CCONJ	_	_	14	cc	_	AlignBegin=31725|AlignEnd=31943|GE=et|Gloss=et|nWord=10|RX=[CCONJ]
+14	kida	kida	INTJ	_	_	_	_	_	AlignBegin=31943|AlignEnd=32160|GE=comme_ça|Gloss=comme_ça|nWord=10|RX=[INTJ]
+15	rāḥ	rāḥ	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=32160|AlignEnd=32595|GE=[aller].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=aller|nWord=11|RX=[AUX]
+16	bābā	bābā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=32595|AlignEnd=33030|GE=[papa].[Foreign=Yes]|Gloss=papa|nWord=12|RX=[NOUN]
+17	ʾāl	ʾāl	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=33030|AlignEnd=33465|GE=[dire].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=dire|nWord=13|RX=[VERB]
+18	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=33465|AlignEnd=33900|GE=[non].[Polarity=Neg]|Gloss=non|nWord=14|RX=[ADV]
+19	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=33900|AlignEnd=34045|GE=[Polarity=Neg]|Gloss=SubConj|nWord=15|RX=[PART]
+20	yinfaʿ	yinfaʿ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=34045|AlignEnd=34190|GE=[marcher].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=marcher|nWord=15|RX=[VERB]
+21	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=34190|AlignEnd=34335|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=15|RX=[PART]
+22	ʾintī	ʾintī	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=34335|AlignEnd=34770|GE=[Gender=Fem$Number=Sing$Person=2$PronType=Prs]|nWord=16|RX=[PRON]
+23	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=34770|AlignEnd=34988|GE=[Definite=Def]|Gloss=Definiteness|nWord=17|RX=[DET]
+24	kibīra	kibīra	ADJ	_	Gender=Fem|Number=Sing	_	_	_	AlignBegin=34988|AlignEnd=35205|GE=[ainé].[Gender=Fem$Number=Sing]|Gloss=ainé|nWord=17|RX=[ADJ]
+25	w=	w=	CCONJ	_	_	26	cc	_	AlignBegin=35205|AlignEnd=35350|GE=et|Gloss=et|nWord=18|RX=[CCONJ]
+26	el=	el=	DET	_	Definite=Def	27	det	_	AlignBegin=35350|AlignEnd=35495|GE=[Definite=Def]|Gloss=Definiteness|nWord=18|RX=[DET]
+27	bit	bit	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=35495|AlignEnd=35640|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=18|RX=[NOUN]
+28	baʾa	baʾa	ADV	_	_	_	_	_	AlignBegin=35640|AlignEnd=36075|GE=donc|Gloss=donc|nWord=19|RX=[ADV]
+29	mīn	mīn	PRON	_	PronType=Int	_	_	_	AlignBegin=36075|AlignEnd=36510|GE=[PronType=Int]|nWord=20|RX=[PRON]
+30	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=36510|AlignEnd=36728|GE=[Tense=Fut]|nWord=21|RX=[AUX]
+31	yoʾʿod	yoʾʿod	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=36728|AlignEnd=36945|GE=[rester].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=rester|nWord=21|RX=[VERB]
+32	fī	fī	ADP	_	_	_	_	_	AlignBegin=36945|AlignEnd=37163|GE=dans|Gloss=dans|nWord=22|RX=[ADP]
+33	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	AlignBegin=37163|AlignEnd=37380|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=22|RX=[PRON]
+34	w=	w=	CCONJ	_	_	35	cc	_	AlignBegin=37380|AlignEnd=37598|GE=et|Gloss=et|nWord=23|RX=[CCONJ]
+35	kida	kida	INTJ	_	_	_	_	_	AlignBegin=37598|AlignEnd=37815|GE=comme_ça|Gloss=comme_ça|nWord=23|RX=[INTJ]
+36	w=	w=	CCONJ	_	_	37	cc	_	AlignBegin=37815|AlignEnd=38033|GE=et|Gloss=et|nWord=24|RX=[CCONJ]
+37	lāzim	lāzim	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=38033|AlignEnd=38250|GE=[nécessiter].[Definite=Ind$Gender=Masc$Number=Sing$VerbForm=Part]|Gloss=nécessiter|nWord=24|RX=[NOUN]
+38	ʾantibih	ʾantibih	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=38250|AlignEnd=38685|GE=[garder].[Aspect=Imp$Number=Sing$Person=1]|Gloss=garder|nWord=25|RX=[VERB]
+39	ʿali	ʿali	ADP	_	_	_	_	_	AlignBegin=38685|AlignEnd=38903|GE=sur|Gloss=sur|nWord=26|RX=[ADP]
+40	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	comp:obj	_	AlignBegin=38903|AlignEnd=39120|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=26|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_11-11
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 39120, 41340
+# phonetic_text = ʿalašān law ḥadd gih
+# text = ʿalašān law ḥadd gih
+# text_fr =  au cas où quelqu'un viendrait§
+1	ʿalašān	ʿalašān	SCONJ	_	_	_	_	_	AlignBegin=39120|AlignEnd=39675|GE=au_cas_où|Gloss=au_cas_où|nWord=1|RX=[SCONJ]
+2	law	law	ADV	_	Mood=Pot	_	_	_	AlignBegin=39675|AlignEnd=40230|GE=[Mood=Pot]|nWord=2|RX=[ADV]
+3	ḥadd	ḥadd	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=40230|AlignEnd=40785|GE=[personne].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=personne|nWord=3|RX=[NOUN]
+4	gih	gih	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=40785|AlignEnd=41340|GE=[venir].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=venir|nWord=4|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_12-12
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 41340, 44240
+# phonetic_text = fa ṭabʿan smiʿt el= el=kalām
+# text = fa ṭabʿan smiʿt elkalām
+# text_fr =  donc, je l'ai fait§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=41340|AlignEnd=42065|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	ṭabʿan	ṭabʿan	ADV	_	_	_	_	_	AlignBegin=42065|AlignEnd=42790|GE=bien_sûr|Gloss=bien_sûr|nWord=2|RX=[ADV]
+3	smiʿt	smiʿt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=42790|AlignEnd=43515|GE=[écouter].[Aspect=Perf$Number=Sing$Person=1]|Gloss=écouter|nWord=3|RX=[VERB]
+4	el=	el=	DET	_	Definite=Def	5	det	_	AlignBegin=43515|AlignEnd=43877|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+5	kalām	kalām	NOUN	_	Gender=Masc|Number=Plur	_	_	_	AlignBegin=43877|AlignEnd=44240|GE=[parole].[Gender=Masc$Number=Plur]|Gloss=parole|nWord=4|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_13-13
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 44240, 48160
+# phonetic_text = w= w=baʿdin ʾistannit ʾillī howwa ḥadd yiṭamin =ī ṭayyib ʾih ʾillī ḥaṣal
+# text = wbaʿdin ʾistannit ʾillī howwa ḥadd yiṭaminī ṭayyib ʾih ʾillī ḥaṣal
+# text_fr =  puis j'ai attendu que quelqu'un me rassure sur ce qui s'est passé§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=44240|AlignEnd=44436|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=44436|AlignEnd=44632|GE=après_ça|Gloss=après_ça|nWord=1|RX=[ADV]
+3	ʾistannit	ʾistannit	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=44632|AlignEnd=45024|GE=[attendre].[Aspect=Perf$Number=Sing$Person=1]|Gloss=attendre|nWord=2|RX=[VERB]
+4	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=45024|AlignEnd=45416|GE=[PronType=Rel]|nWord=3|RX=[PRON]
+5	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=45416|AlignEnd=45808|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=4|RX=[PRON]
+6	ḥadd	ḥadd	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=45808|AlignEnd=46200|GE=[personne].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=personne|nWord=5|RX=[NOUN]
+7	yiṭamin	yiṭamin	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=46200|AlignEnd=46396|GE=[se_rassurer].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=se_rassurer|nWord=6|RX=[VERB]
+8	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=46396|AlignEnd=46592|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=6|RX=[PRON]
+9	ṭayyib	ṭayyib	ADV	_	_	_	_	_	AlignBegin=46592|AlignEnd=46984|GE=alors|Gloss=alors|nWord=7|RX=[ADV]
+10	ʾih	ʾih	ADV	_	PronType=Int	_	_	_	AlignBegin=46984|AlignEnd=47376|GE=[PronType=Int]|nWord=8|RX=[ADV]
+11	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=47376|AlignEnd=47768|GE=[PronType=Rel]|nWord=9|RX=[PRON]
+12	ḥaṣal	ḥaṣal	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=47768|AlignEnd=48160|GE=[se_passer].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=se_passer|nWord=10|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_14-14
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 48170, 49630
+# phonetic_text = koll šwayya ʾarinn ʿali =hom =hom
+# text = koll šwayya ʾarinn ʿalihom
+# text_fr =  de temps en temps, je les appelle§
+1	koll	koll	DET	_	_	2	det	_	AlignBegin=48170|AlignEnd=48535|GE=tout|Gloss=tout|nWord=1|RX=[DET]
+2	šwayya	šwayya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=48535|AlignEnd=48900|GE=[un_petit_peu].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=un_petit_peu|nWord=2|RX=[NOUN]
+3	ʾarinn	ʾarinn	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=48900|AlignEnd=49265|GE=[sonner].[Aspect=Imp$Number=Sing$Person=1]|Gloss=sonner|nWord=3|RX=[VERB]
+4	ʿali	ʿali	ADP	_	_	_	_	_	AlignBegin=49265|AlignEnd=49447|GE=sur|Gloss=sur|nWord=4|RX=[ADP]
+5	=hom	=hom	PRON	_	Number=Plur|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=49447|AlignEnd=49630|GE=[Number=Plur$Person=3$PronType=Prs]|Gloss=leur-eux|nWord=4|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_15-15
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 49630, 51408
+# phonetic_text = yiʾolū =l =l=ī lissa lissa ma= daḫalit =š
+# text = yiʾolūlī lissa lissa madaḫalitš
+# text_fr =  on me dit, pas encore§ elle n'est pas encore entrée§
+1	yiʾolū	yiʾolū	VERB	_	Aspect=Imp|Number=Plur|Person=3	_	_	_	AlignBegin=49630|AlignEnd=49778|GE=[dire].[Aspect=Imp$Number=Plur$Person=3]|Gloss=dire|nWord=1|RX=[VERB]
+2	=l	=l	ADP	_	_	_	_	_	AlignBegin=49778|AlignEnd=49926|GE=à|Gloss=à|nWord=1|RX=[ADP]
+3	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	2	comp:obj	_	AlignBegin=49926|AlignEnd=50074|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=1|RX=[PRON]
+4	lissa	lissa	ADV	_	_	_	_	_	AlignBegin=50074|AlignEnd=50518|GE=pas_encore|Gloss=pas_encore|nWord=2|RX=[ADV]
+5	lissa	lissa	ADV	_	_	_	_	_	AlignBegin=50518|AlignEnd=50962|GE=pas_encore|Gloss=pas_encore|nWord=3|RX=[ADV]
+6	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=50962|AlignEnd=51111|GE=[Polarity=Neg]|Gloss=SubConj|nWord=4|RX=[PART]
+7	daḫalit	daḫalit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=51111|AlignEnd=51260|GE=[entrer].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=entrer|nWord=4|RX=[VERB]
+8	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=51260|AlignEnd=51408|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=4|RX=[PART]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_16-16
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 51408, 53861
+# phonetic_text = lissa miš dilwaʾtī el= el=wilāda šwayya šwayya
+# text = lissa miš dilwaʾtī elwilāda šwayya šwayya
+# text_fr =  pas encore, l'accouchement sera bientôt§
+1	lissa	lissa	ADV	_	_	_	_	_	AlignBegin=51408|AlignEnd=51817|GE=pas_encore|Gloss=pas_encore|nWord=1|RX=[ADV]
+2	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=51817|AlignEnd=52226|GE=[Polarity=Neg]|Gloss=NEG|nWord=2|RX=[PART]
+3	dilwaʾtī	dilwaʾtī	ADV	_	_	_	_	_	AlignBegin=52226|AlignEnd=52635|GE=maintenant|Gloss=maintenant|nWord=3|RX=[ADV]
+4	el=	el=	DET	_	Definite=Def	5	det	_	AlignBegin=52635|AlignEnd=52839|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+5	wilāda	wilāda	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Vnoun	_	_	_	AlignBegin=52839|AlignEnd=53044|GE=[accouchement].[Gender=Fem$Number=Sing$VerbForm=Vnoun]|Gloss=accouchement|nWord=4|RX=[NOUN]
+6	šwayya	šwayya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=53044|AlignEnd=53453|GE=[un_petit_peu].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=un_petit_peu|nWord=5|RX=[NOUN]
+7	šwayya	šwayya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=53453|AlignEnd=53861|GE=[un_petit_peu].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=un_petit_peu|nWord=6|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_17-17
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 53861, 54933
+# phonetic_text = ʾolt tamām
+# text = ʾolt tamām
+# text_fr =  j'ai dit d'accord§
+1	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=53861|AlignEnd=54397|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=1|RX=[VERB]
+2	tamām	tamām	ADV	_	_	_	_	_	AlignBegin=54397|AlignEnd=54933|GE=d'accord|Gloss=d'accord|nWord=2|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_18-20
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 54933, 61049
+# phonetic_text = liḥadd ma gāt essāʿa ʿašara bi= bi=el= lil fakra kowayyis el= maʿād dā sāʿit =ha bābā rann ʿalā ya
+# text = liḥadd ma gāt essāʿa ʿašara biellil fakra kowayyis elmaʿād dā sāʿitha bābā rann ʿalayya
+# text_fr =  jusqu'à dix heures du soir je me souviens bien de cette heure à ce moment, papa m'a appelé§
+1	liḥadd	liḥadd	ADV	_	_	_	_	_	AlignBegin=54933|AlignEnd=55287|GE=jusqu'à|Gloss=jusqu'à|nWord=1|RX=[ADV]
+2	ma	ma	ADP	_	_	_	_	_	AlignBegin=55287|AlignEnd=55641|GE=que|Gloss=que|nWord=2|RX=[ADP]
+3	gāt	gāt	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=55641|AlignEnd=55995|GE=[venir].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=venir|nWord=3|RX=[VERB]
+4	essāʿa	essāʿa	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	_	_	_	AlignBegin=55995|AlignEnd=56349|GE=[heure].[Definite=Def$Gender=Fem$Number=Sing]|Gloss=heure|nWord=4|RX=[NOUN]
+5	ʿašara	ʿašara	NUM	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=56349|AlignEnd=56703|GE=[dix].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=dix|nWord=5|RX=[NUM]
+6	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=56703|AlignEnd=56822|GE=par|Gloss=par|nWord=6|RX=[ADP]
+7	el=	el=	DET	_	Definite=Def	8	det	_	AlignBegin=56822|AlignEnd=56941|GE=[Definite=Def]|Gloss=Definiteness|nWord=6|RX=[DET]
+8	lil	lil	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=56941|AlignEnd=57060|GE=[soir].[Gender=Masc$Number=Sing]|Gloss=soir|nWord=6|RX=[NOUN]
+9	fakra	fakra	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=57060|AlignEnd=57563|GE=[se_rappeller].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=se_rappeller|nWord=7|RX=[NOUN]
+10	kowayyis	kowayyis	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=57563|AlignEnd=58066|GE=[bon].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=bon|nWord=8|RX=[ADJ]
+11	el=	el=	DET	_	Definite=Def	12	det	_	AlignBegin=58066|AlignEnd=58318|GE=[Definite=Def]|Gloss=Definiteness|nWord=9|RX=[DET]
+12	maʿād	maʿād	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=58318|AlignEnd=58569|GE=[heure].[Gender=Masc$Number=Sing]|Gloss=heure|nWord=9|RX=[NOUN]
+13	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=58569|AlignEnd=59071|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=10|RX=[DET]
+14	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=59071|AlignEnd=59318|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=11|RX=[NOUN]
+15	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=59318|AlignEnd=59565|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=11|RX=[PRON]
+16	bābā	bābā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=59565|AlignEnd=60059|GE=[papa].[Foreign=Yes]|Gloss=papa|nWord=12|RX=[NOUN]
+17	rann	rann	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=60059|AlignEnd=60553|GE=[appeler].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=appeler|nWord=13|RX=[VERB]
+18	ʿalā	ʿalā	ADP	_	_	_	_	_	AlignBegin=60553|AlignEnd=60801|GE=sur|Gloss=sur|nWord=14|RX=[ADP]
+19	ya	ya	PRON	_	Number=Sing|Person=1|PronType=Prs	18	comp:obj	_	AlignBegin=60801|AlignEnd=61049|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=14|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_21-22
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 61049, 64839
+# phonetic_text = w= w=ʾāl =l =ī ʾin māmā wildit w= ʾin hiyya gabit bint
+# text = wʾāllī ʾin māmā wildit wʾin hiyya gabit bint
+# text_fr =  il m'ai dit que maman a accouché et qu'elle a accouché d'une fille§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=61049|AlignEnd=61175|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	ʾāl	ʾāl	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=61175|AlignEnd=61301|GE=[dire].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=dire|nWord=1|RX=[VERB]
+3	=l	=l	ADP	_	_	_	_	_	AlignBegin=61301|AlignEnd=61427|GE=à|Gloss=à|nWord=1|RX=[ADP]
+4	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=61427|AlignEnd=61552|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=1|RX=[PRON]
+5	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=61552|AlignEnd=62055|GE=[COMP]|Gloss=que|nWord=2|RX=[SCONJ]
+6	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=62055|AlignEnd=62558|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=3|RX=[NOUN]
+7	wildit	wildit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=62558|AlignEnd=63060|GE=[accoucher].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=accoucher|nWord=4|RX=[VERB]
+8	w=	w=	CCONJ	_	_	9	cc	_	AlignBegin=63060|AlignEnd=63282|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+9	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=63282|AlignEnd=63505|GE=[COMP]|Gloss=que|nWord=5|RX=[SCONJ]
+10	hiyya	hiyya	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=63505|AlignEnd=63950|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=6|RX=[PRON]
+11	gabit	gabit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=63950|AlignEnd=64395|GE=[apporter].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=apporter|nWord=7|RX=[VERB]
+12	bint	bint	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=64395|AlignEnd=64839|GE=[fille].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=fille|nWord=8|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_23-23
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 64839, 67248
+# phonetic_text = kont mabsūṭa giddan
+# text = kont mabsūṭa giddan
+# text_fr =  j'était si heureuse§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=64839|AlignEnd=65642|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	mabsūṭa	mabsūṭa	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=65642|AlignEnd=66445|GE=[content].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=content|nWord=2|RX=[ADJ]
+3	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=66445|AlignEnd=67248|GE=très|Gloss=très|nWord=3|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_24-24
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 67248, 70088
+# phonetic_text = kont ḥābba ʾarūḥ ʾašūf =ha w= w=kida
+# text = kont ḥābba ʾarūḥ ʾašūfha wkida
+# text_fr =  j'aimerais bien aller la voir§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=67248|AlignEnd=67816|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	ḥābba	ḥābba	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=67816|AlignEnd=68384|GE=[aimer].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=aimer|nWord=2|RX=[NOUN]
+3	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=68384|AlignEnd=68952|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=3|RX=[VERB]
+4	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=68952|AlignEnd=69236|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=4|RX=[VERB]
+5	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=69236|AlignEnd=69520|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=4|RX=[PRON]
+6	w=	w=	CCONJ	_	_	7	cc	_	AlignBegin=69520|AlignEnd=69804|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+7	kida	kida	INTJ	_	_	_	_	_	AlignBegin=69804|AlignEnd=70088|GE=comme_ça|Gloss=comme_ça|nWord=5|RX=[INTJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_25-25
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 70088, 72972
+# phonetic_text = waʾt =ha gāt ʿammit =ī =ī
+# text = waʾtaha gāt ʿammitī
+# text_fr =  à ce moment-là, ma tante est venue§
+1	waʾt	waʾt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=70088|AlignEnd=70568|GE=[temps].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=70568|AlignEnd=71049|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	gāt	gāt	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=71049|AlignEnd=72010|GE=[venir].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=venir|nWord=2|RX=[VERB]
+4	ʿammit	ʿammit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=72010|AlignEnd=72491|GE=[tante].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=tante|nWord=3|RX=[NOUN]
+5	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=72491|AlignEnd=72972|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=3|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_26-29
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 72972, 81856
+# phonetic_text = ʾālit =l =l=ī ~ ʾolt =illa =ha ʾin ʾanā ha= ʾarūḥ euh ha= ʾarūḥ ʾazūr māmā fī el= mostašfa w= kida w= ʾašof =ha w= ʾašūf el= baby el= ṣoġayyarah w= kida
+# text = ʾālitlī ʾoltillaha ʾin ʾanā haʾarūḥ euh haʾarūḥ ʾazūr māmā fī elmostašfa wkida wašofha wašūf elbaby eṣṣoġayyarah wkida
+# text_fr =  elle m'a dit ~ je lui a dit que je vais je vais rendre visite à maman à l'hôpital et la voir et je vois le nouveau-né§
+1	ʾālit	ʾālit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=72972|AlignEnd=73244|GE=[dire].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=dire|nWord=1|RX=[VERB]
+2	=l	=l	ADP	_	_	_	_	_	AlignBegin=73244|AlignEnd=73516|GE=à|Gloss=à|nWord=1|RX=[ADP]
+3	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	2	comp:obj	_	AlignBegin=73516|AlignEnd=73788|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=1|RX=[PRON]
+4	~	~	~	_	_	_	_	_	AlignBegin=73788|AlignEnd=74060|GE=[~]|Gloss=~|nWord=1|RX=[~]
+5	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=74060|AlignEnd=74165|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=2|RX=[VERB]
+6	=illa	=illa	ADP	_	_	_	_	_	AlignBegin=74165|AlignEnd=74270|GE=à|Gloss=à|nWord=2|RX=[ADP]
+7	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=74270|AlignEnd=74374|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+8	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=74374|AlignEnd=74688|GE=[COMP]|Gloss=que|nWord=3|RX=[SCONJ]
+9	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=74688|AlignEnd=75002|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=4|RX=[PRON]
+10	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=75002|AlignEnd=75159|GE=[Tense=Fut]|nWord=5|RX=[AUX]
+11	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=75159|AlignEnd=75316|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=5|RX=[VERB]
+12	euh	euh	INTJ	_	_	_	_	_	AlignBegin=75316|AlignEnd=75629|GE=euh|Gloss=euh|nWord=6|RX=[INTJ]
+13	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=75629|AlignEnd=75795|GE=[Tense=Fut]|nWord=7|RX=[AUX]
+14	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=75795|AlignEnd=75961|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=7|RX=[VERB]
+15	ʾazūr	ʾazūr	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=75961|AlignEnd=76293|GE=[visiter].[Aspect=Imp$Number=Sing$Person=1]|Gloss=visiter|nWord=8|RX=[VERB]
+16	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=76293|AlignEnd=76625|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=9|RX=[NOUN]
+17	fī	fī	ADP	_	_	_	_	_	AlignBegin=76625|AlignEnd=76957|GE=dans|Gloss=dans|nWord=10|RX=[ADP]
+18	el=	el=	DET	_	Definite=Def	19	det	_	AlignBegin=76957|AlignEnd=77123|GE=[Definite=Def]|Gloss=Definiteness|nWord=11|RX=[DET]
+19	mostašfa	mostašfa	NOUN	_	Gender=Fem|Number=Sing	17	comp:obj	_	AlignBegin=77123|AlignEnd=77289|GE=[hôpital].[Gender=Fem$Number=Sing]|Gloss=hôpital|nWord=11|RX=[NOUN]
+20	w=	w=	CCONJ	_	_	21	cc	_	AlignBegin=77289|AlignEnd=77455|GE=et|Gloss=et|nWord=12|RX=[CCONJ]
+21	kida	kida	INTJ	_	_	_	_	_	AlignBegin=77455|AlignEnd=77621|GE=comme_ça|Gloss=comme_ça|nWord=12|RX=[INTJ]
+22	w=	w=	CCONJ	_	_	23	cc	_	AlignBegin=77621|AlignEnd=77732|GE=et|Gloss=et|nWord=13|RX=[CCONJ]
+23	ʾašof	ʾašof	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=77732|AlignEnd=77843|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=13|RX=[VERB]
+24	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=77843|AlignEnd=77955|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=13|RX=[PRON]
+25	w=	w=	CCONJ	_	_	26	cc	_	AlignBegin=77955|AlignEnd=78443|GE=et|Gloss=et|nWord=14|RX=[CCONJ]
+26	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=78443|AlignEnd=78930|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=14|RX=[VERB]
+27	el=	el=	DET	_	Definite=Def	28	det	_	AlignBegin=78930|AlignEnd=79418|GE=[Definite=Def]|Gloss=Definiteness|nWord=15|RX=[DET]
+28	baby	baby	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=79418|AlignEnd=79905|GE=[noueau-né].[Foreign=Yes]|Gloss=noueau-né|nWord=15|RX=[NOUN]
+29	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=79905|AlignEnd=80393|GE=[Definite=Def]|Gloss=Definiteness|nWord=16|RX=[DET]
+30	ṣoġayyarah	ṣoġayyarah	ADJ	_	Gender=Fem|Number=Sing	_	_	_	AlignBegin=80393|AlignEnd=80880|GE=[petit].[Gender=Fem$Number=Sing]|Gloss=petit|nWord=16|RX=[ADJ]
+31	w=	w=	CCONJ	_	_	32	cc	_	AlignBegin=80880|AlignEnd=81368|GE=et|Gloss=et|nWord=17|RX=[CCONJ]
+32	kida	kida	INTJ	_	_	_	_	_	AlignBegin=81368|AlignEnd=81856|GE=comme_ça|Gloss=comme_ça|nWord=17|RX=[INTJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_30-30
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 81857, 89027
+# phonetic_text = fa ʾalit =l =l=ī laʾ miš ha= yinfaʿ trūḥī w= ʾin =nī el= kibīra w= el= bit w= kida ʾolt =l =ha laʾ ʾanā ʿāyza ʾarūḥ w= ma =l =ī =š daʿwa
+# text = fa ʾalitlī laʾ miš hayinfaʿ trūḥī wʾinnī elkibīra welbit wkida ʾoltlha lā ʾanā ʿāyza ʾarūḥ wmalīš daʿwa
+# text_fr =  elle m'a dit que non tu ne devrais pas aller§ tu es l'aînée et la maison, etc.§ je lui ai dit que je veux aller§ cela ne me regarde pas§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=81857|AlignEnd=82279|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	ʾalit	ʾalit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=82279|AlignEnd=82420|GE=[dire].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=dire|nWord=2|RX=[VERB]
+3	=l	=l	ADP	_	_	_	_	_	AlignBegin=82420|AlignEnd=82561|GE=à|Gloss=à|nWord=2|RX=[ADP]
+4	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=82561|AlignEnd=82701|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=2|RX=[PRON]
+5	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=82701|AlignEnd=83123|GE=[non].[Polarity=Neg]|Gloss=non|nWord=3|RX=[ADV]
+6	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=83123|AlignEnd=83545|GE=[Polarity=Neg]|Gloss=NEG|nWord=4|RX=[PART]
+7	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=83545|AlignEnd=83756|GE=[Tense=Fut]|nWord=5|RX=[AUX]
+8	yinfaʿ	yinfaʿ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=83756|AlignEnd=83967|GE=[marcher].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=marcher|nWord=5|RX=[VERB]
+9	trūḥī	trūḥī	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=2	_	_	_	AlignBegin=83967|AlignEnd=84389|GE=[aller].[Aspect=Imp$Gender=Fem$Number=Sing$Person=2]|Gloss=aller|nWord=6|RX=[VERB]
+10	w=	w=	CCONJ	_	_	11	cc	_	AlignBegin=84389|AlignEnd=84530|GE=et|Gloss=et|nWord=7|RX=[CCONJ]
+11	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=84530|AlignEnd=84671|GE=[COMP]|Gloss=que|nWord=7|RX=[SCONJ]
+12	=nī	=nī	PRON	_	Number=Sing.Person=1.PronType=Prs|Person=1|PronType=Prs	_	_	_	AlignBegin=84671|AlignEnd=84811|GE=[Number=Sing].[Person=1].[PronType=Prs]|Gloss=me|nWord=7|RX=[PRON]
+13	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=84811|AlignEnd=85022|GE=[Definite=Def]|Gloss=Definiteness|nWord=8|RX=[DET]
+14	kibīra	kibīra	ADJ	_	Gender=Fem|Number=Sing	_	_	_	AlignBegin=85022|AlignEnd=85233|GE=[ainé].[Gender=Fem$Number=Sing]|Gloss=ainé|nWord=8|RX=[ADJ]
+15	w=	w=	CCONJ	_	_	16	cc	_	AlignBegin=85233|AlignEnd=85374|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+16	el=	el=	DET	_	Definite=Def	17	det	_	AlignBegin=85374|AlignEnd=85515|GE=[Definite=Def]|Gloss=Definiteness|nWord=9|RX=[DET]
+17	bit	bit	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=85515|AlignEnd=85655|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=9|RX=[NOUN]
+18	w=	w=	CCONJ	_	_	19	cc	_	AlignBegin=85655|AlignEnd=85866|GE=et|Gloss=et|nWord=10|RX=[CCONJ]
+19	kida	kida	INTJ	_	_	_	_	_	AlignBegin=85866|AlignEnd=86077|GE=comme_ça|Gloss=comme_ça|nWord=10|RX=[INTJ]
+20	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=86077|AlignEnd=86218|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=11|RX=[VERB]
+21	=l	=l	ADP	_	_	_	_	_	AlignBegin=86218|AlignEnd=86359|GE=à|Gloss=à|nWord=11|RX=[ADP]
+22	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	comp:obj	_	AlignBegin=86359|AlignEnd=86499|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=11|RX=[PRON]
+23	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=86499|AlignEnd=86921|GE=[non].[Polarity=Neg]|Gloss=non|nWord=12|RX=[ADV]
+24	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=86921|AlignEnd=87343|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=13|RX=[PRON]
+25	ʿāyza	ʿāyza	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=87343|AlignEnd=87765|GE=[vouloir].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=vouloir|nWord=14|RX=[NOUN]
+26	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=87765|AlignEnd=88187|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=15|RX=[VERB]
+27	w=	w=	CCONJ	_	_	28	cc	_	AlignBegin=88187|AlignEnd=88271|GE=et|Gloss=et|nWord=16|RX=[CCONJ]
+28	ma	ma	PART	_	Polarity=Neg	_	_	_	AlignBegin=88271|AlignEnd=88355|GE=[Polarity=Neg]|nWord=16|RX=[PART]
+29	=l	=l	ADP	_	_	_	_	_	AlignBegin=88355|AlignEnd=88439|GE=à|Gloss=à|nWord=16|RX=[ADP]
+30	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	29	comp:obj	_	AlignBegin=88439|AlignEnd=88523|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=16|RX=[PRON]
+31	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=88523|AlignEnd=88609|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=16|RX=[PART]
+32	daʿwa	daʿwa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=88609|AlignEnd=89027|GE=[intérêt].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=intérêt|nWord=17|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_31-31
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 89027, 91215
+# phonetic_text = w= w=ʾanā ḥābba ʾašūf =ha
+# text = wanā ḥābba ʾašūfha
+# text_fr =  et j'aimerais la voir§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=89027|AlignEnd=89391|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=89391|AlignEnd=89756|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=1|RX=[PRON]
+3	ḥābba	ḥābba	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=89756|AlignEnd=90485|GE=[aimer].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=aimer|nWord=2|RX=[NOUN]
+4	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=90485|AlignEnd=90850|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=3|RX=[VERB]
+5	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=90850|AlignEnd=91215|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=3|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_32-32
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 91215, 94392
+# phonetic_text = fa kallimt bābā w= w=ʾaʿadt ʾazinn ʿali =h
+# text = fa kallimt bābā wʾaʿadt ʾazinn ʿalih
+# text_fr =  j'ai applé papa et j'ai continué à insister sur lui§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=91215|AlignEnd=91745|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	kallimt	kallimt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=91745|AlignEnd=92275|GE=[parler].[Aspect=Perf$Number=Sing$Person=1]|Gloss=parler|nWord=2|RX=[VERB]
+3	bābā	bābā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=92275|AlignEnd=92805|GE=[papa].[Foreign=Yes]|Gloss=papa|nWord=3|RX=[NOUN]
+4	w=	w=	CCONJ	_	_	5	cc	_	AlignBegin=92805|AlignEnd=93070|GE=et|Gloss=et|nWord=4|RX=[CCONJ]
+5	ʾaʿadt	ʾaʿadt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=93070|AlignEnd=93335|GE=[rester].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rester|nWord=4|RX=[AUX]
+6	ʾazinn	ʾazinn	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=93335|AlignEnd=93865|GE=[insister].[Aspect=Perf$Number=Sing$Person=1]|Gloss=insister|nWord=5|RX=[VERB]
+7	ʿali	ʿali	ADP	_	_	_	_	_	AlignBegin=93865|AlignEnd=94129|GE=sur|Gloss=sur|nWord=6|RX=[ADP]
+8	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=94129|AlignEnd=94392|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=6|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_33-33
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 94392, 96469
+# phonetic_text = w= w=ʾaʾūl =l =oh ʾanā ʿāyza ʾarūḥ ʾašof =ha
+# text = wʾaʾūlloh ʾanā ʿāyza ʾarūḥ ʾašofha
+# text_fr =  et je lui disais que je veux la voir§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=94392|AlignEnd=94496|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	ʾaʾūl	ʾaʾūl	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=94496|AlignEnd=94600|GE=[dire].[Aspect=Imp$Number=Sing$Person=1]|Gloss=dire|nWord=1|RX=[VERB]
+3	=l	=l	ADP	_	_	_	_	_	AlignBegin=94600|AlignEnd=94704|GE=à|Gloss=à|nWord=1|RX=[ADP]
+4	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=94704|AlignEnd=94807|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=1|RX=[PRON]
+5	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=94807|AlignEnd=95222|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=2|RX=[PRON]
+6	ʿāyza	ʿāyza	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=95222|AlignEnd=95637|GE=[vouloir].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=vouloir|nWord=3|RX=[NOUN]
+7	ʾarūḥ	ʾarūḥ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=95637|AlignEnd=96052|GE=[aller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=aller|nWord=4|RX=[VERB]
+8	ʾašof	ʾašof	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=96052|AlignEnd=96260|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=5|RX=[VERB]
+9	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=96260|AlignEnd=96469|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=5|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_34-34
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 96469, 99165
+# phonetic_text = ma =l =l=ī =š daʿwa w= kida
+# text = malīš daʿwa wkida
+# text_fr =  cela ne me regarde pas§
+1	ma	ma	PART	_	Polarity=Neg	_	_	_	AlignBegin=96469|AlignEnd=96694|GE=[Polarity=Neg]|nWord=1|RX=[PART]
+2	=l	=l	ADP	_	_	_	_	_	AlignBegin=96694|AlignEnd=96919|GE=à|Gloss=à|nWord=1|RX=[ADP]
+3	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	2	comp:obj	_	AlignBegin=96919|AlignEnd=97144|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=1|RX=[PRON]
+4	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=97144|AlignEnd=97368|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=1|RX=[PART]
+5	daʿwa	daʿwa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=97368|AlignEnd=98267|GE=[intérêt].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=intérêt|nWord=2|RX=[NOUN]
+6	w=	w=	CCONJ	_	_	7	cc	_	AlignBegin=98267|AlignEnd=98716|GE=et|Gloss=et|nWord=3|RX=[CCONJ]
+7	kida	kida	INTJ	_	_	_	_	_	AlignBegin=98716|AlignEnd=99165|GE=comme_ça|Gloss=comme_ça|nWord=3|RX=[INTJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_35-35
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 99165, 104060
+# phonetic_text = fa bābā rāḥ kallim ʿammit =ī =īw= ʾāl =la =ha ʾanā ha= ʾabʿat =la =ha ʾaḫū =ha yigī yaḫod =ha
+# text = fa bābā rāḥ kallim ʿammitī wʾāllaha ʾanā habʿatlaha ʾaḫūha yigī yaḫodha
+# text_fr =  donc, papa a appelé ma tante pour lui dire qu'il va envoyer son frère la chercher§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=99165|AlignEnd=99610|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	bābā	bābā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=99610|AlignEnd=100055|GE=[papa].[Foreign=Yes]|Gloss=papa|nWord=2|RX=[NOUN]
+3	rāḥ	rāḥ	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=100055|AlignEnd=100500|GE=[aller].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=aller|nWord=3|RX=[AUX]
+4	kallim	kallim	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=100500|AlignEnd=100945|GE=[parler].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=parler|nWord=4|RX=[VERB]
+5	ʿammit	ʿammit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=100945|AlignEnd=101167|GE=[tante].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=tante|nWord=5|RX=[NOUN]
+6	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=101167|AlignEnd=101390|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=5|RX=[PRON]
+7	w=	w=	CCONJ	_	_	8	cc	_	AlignBegin=101390|AlignEnd=101501|GE=et|Gloss=et|nWord=6|RX=[CCONJ]
+8	ʾāl	ʾāl	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=101501|AlignEnd=101612|GE=[dire].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=dire|nWord=6|RX=[VERB]
+9	=la	=la	ADP	_	_	_	_	_	AlignBegin=101612|AlignEnd=101723|GE=à|Gloss=à|nWord=6|RX=[ADP]
+10	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	comp:obj	_	AlignBegin=101723|AlignEnd=101835|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=6|RX=[PRON]
+11	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=101835|AlignEnd=102280|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=7|RX=[PRON]
+12	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=102280|AlignEnd=102391|GE=[Tense=Fut]|nWord=8|RX=[AUX]
+13	ʾabʿat	ʾabʿat	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=102391|AlignEnd=102502|GE=[envoyer].[Aspect=Imp$Number=Sing$Person=1]|Gloss=envoyer|nWord=8|RX=[VERB]
+14	=la	=la	ADP	_	_	_	_	_	AlignBegin=102502|AlignEnd=102613|GE=à|Gloss=à|nWord=8|RX=[ADP]
+15	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	comp:obj	_	AlignBegin=102613|AlignEnd=102725|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=8|RX=[PRON]
+16	ʾaḫū	ʾaḫū	NOUN	_	Definite=Cons.Gender=Masc.Number=Sing|Number=Sing	_	_	_	AlignBegin=102725|AlignEnd=102947|GE=[frère].[Definite=Cons].[Gender=Masc].[Number=Sing]|Gloss=frère|nWord=9|RX=[NOUN]
+17	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=102947|AlignEnd=103170|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=9|RX=[PRON]
+18	yigī	yigī	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=103170|AlignEnd=103615|GE=[venir].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=venir|nWord=10|RX=[VERB]
+19	yaḫod	yaḫod	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=103615|AlignEnd=103837|GE=[prendre].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=prendre|nWord=11|RX=[VERB]
+20	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=103837|AlignEnd=104060|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=11|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_36-36
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 104060, 105502
+# phonetic_text = w= w=ḫallī =ha tigī
+# text = wḫallīha tigī
+# text_fr =  laisse-la venir§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=104060|AlignEnd=104300|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	ḫallī	ḫallī	VERB	_	Gender=Fem|Mood=Imp|Number=Sing|Person=2	_	_	_	AlignBegin=104300|AlignEnd=104540|GE=[laisser].[Gender=Fem$Mood=Imp$Number=Sing$Person=2]|Gloss=lisser|nWord=1|RX=[VERB]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=104540|AlignEnd=104781|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+4	tigī	tigī	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=104781|AlignEnd=105502|GE=[venir].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=venir|nWord=2|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_37-37
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 105502, 107088
+# phonetic_text = waʾt =ha gā ʾaḫū =ya =yael= kibīr
+# text = waʾtaha gā ʾaḫūya elkibīr
+# text_fr =  alors, mon frère ainé est venu§
+1	waʾt	waʾt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=105502|AlignEnd=105700|GE=[temps].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=105700|AlignEnd=105898|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	gā	gā	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=105898|AlignEnd=106294|GE=[venir].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=venir|nWord=2|RX=[VERB]
+4	ʾaḫū	ʾaḫū	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=106294|AlignEnd=106492|GE=[frère].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=frère|nWord=3|RX=[NOUN]
+5	=ya	=ya	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=106492|AlignEnd=106690|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon-moi|nWord=3|RX=[PRON]
+6	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=106690|AlignEnd=106889|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+7	kibīr	kibīr	ADJ	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=106889|AlignEnd=107088|GE=[aîné].[Gender=Masc$Number=Sing]|Gloss=aîné|nWord=4|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_38-38
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 107088, 108458
+# phonetic_text = ḫadd =nī =nī
+# text = ḫaddnī
+# text_fr =  il m'a emmené§
+1	ḫadd	ḫadd	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=107088|AlignEnd=107773|GE=[prendre].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=prendre|nWord=1|RX=[VERB]
+2	=nī	=nī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=107773|AlignEnd=108458|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=me|nWord=1|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_39-40
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 108458, 120453
+# phonetic_text = roḥt hnāk daḫalt laʾīt māmā sāʿit =ha nayma ʿalā el= el=sirīr taʿbāna bi= sabab el= bing bass kānit saḥya w= kānit ʾitkallimt maʿā =ha w= iṭammint ʿali =ha w= baʿdin ʾolt =l =ha ʾanā ʿāyza ʾašūf el= baby el= ṣoġayyar
+# text = roḥt hnāk daḫalt laʾīt māmā sāʿitha nayma ʿasirīr taʿbāna bisabab elbing bass kānit saḥya wkānit ʾitkallimt maʿāha wiṭammint ʿaliha wbaʿdin ʾoltlha ʾanā ʿāyza ʾašūf elbaby eṣṣoġayyar
+# text_fr =  je suis allée là-bas et en entrant j'ai trouvé ma mère dort sur le lit, fatiguée à case de l'anesthésie mais, elle était éveillée§ j'ai parlé avec elle et l'a rassurée§ et après je lui a dit que he veux voir le bébé§
+1	roḥt	roḥt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=108458|AlignEnd=108868|GE=[aller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=aller|nWord=1|RX=[VERB]
+2	hnāk	hnāk	ADV	_	_	_	_	_	AlignBegin=108868|AlignEnd=109278|GE=là=l-bas|Gloss=là-bas|nWord=2|RX=[ADV]
+3	daḫalt	daḫalt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=109278|AlignEnd=109688|GE=[entrer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=entrer|nWord=3|RX=[VERB]
+4	laʾīt	laʾīt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=109688|AlignEnd=110098|GE=[trouver].[Aspect=Perf$Number=Sing$Person=1]|Gloss=trouver|nWord=4|RX=[VERB]
+5	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=110098|AlignEnd=110508|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=5|RX=[NOUN]
+6	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=110508|AlignEnd=110713|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=6|RX=[NOUN]
+7	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=110713|AlignEnd=110918|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=6|RX=[PRON]
+8	nayma	nayma	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=110918|AlignEnd=111328|GE=[endormi].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=endormi|nWord=7|RX=[ADJ]
+9	ʿalā	ʿalā	ADP	_	_	_	_	_	AlignBegin=111328|AlignEnd=111465|GE=sur|Gloss=sur|nWord=8|RX=[ADP]
+10	el=	el=	DET	_	Definite=Def	11	det	_	AlignBegin=111465|AlignEnd=111602|GE=[Definite=Def]|Gloss=Definiteness|nWord=8|RX=[DET]
+11	sirīr	sirīr	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=111602|AlignEnd=111738|GE=[lit].[Gender=Masc$Number=Sing]|Gloss=li=lt|nWord=8|RX=[NOUN]
+12	taʿbāna	taʿbāna	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=111738|AlignEnd=112148|GE=[fatigué].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=fatigué|nWord=9|RX=[ADJ]
+13	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=112148|AlignEnd=112353|GE=par|Gloss=par|nWord=10|RX=[ADP]
+14	sabab	sabab	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=112353|AlignEnd=112558|GE=[cause].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=cause|nWord=10|RX=[NOUN]
+15	el=	el=	DET	_	Definite=Def	16	det	_	AlignBegin=112558|AlignEnd=112762|GE=[Definite=Def]|Gloss=Definiteness|nWord=11|RX=[DET]
+16	bing	bing	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=112762|AlignEnd=112966|GE=[anesthésie].[Gender=Masc$Number=Sing]|Gloss=anesthésie|nWord=11|RX=[NOUN]
+17	bass	bass	ADV	_	_	_	_	_	AlignBegin=112971|AlignEnd=113470|GE=mais|Gloss=mais|nWord=12|RX=[ADV]
+18	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=113470|AlignEnd=113969|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=13|RX=[VERB]
+19	saḥya	saḥya	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=113969|AlignEnd=114468|GE=[eveillé].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=eveillé|nWord=14|RX=[ADJ]
+20	w=	w=	CCONJ	_	_	21	cc	_	AlignBegin=114468|AlignEnd=114718|GE=et|Gloss=et|nWord=15|RX=[CCONJ]
+21	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=114718|AlignEnd=114967|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=15|RX=[VERB]
+22	ʾitkallimt	ʾitkallimt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=114967|AlignEnd=115466|GE=[parler].[Aspect=Perf$Number=Sing$Person=1]|Gloss=parler|nWord=16|RX=[VERB]
+23	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=115466|AlignEnd=115716|GE=avec|Gloss=avec|nWord=17|RX=[ADP]
+24	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	comp:obj	_	AlignBegin=115716|AlignEnd=115965|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=17|RX=[PRON]
+25	w=	w=	CCONJ	_	_	26	cc	_	AlignBegin=115965|AlignEnd=116215|GE=et|Gloss=et|nWord=18|RX=[CCONJ]
+26	iṭammint	iṭammint	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=116215|AlignEnd=116464|GE=[se_rassurer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=se_rassurer|nWord=18|RX=[VERB]
+27	ʿali	ʿali	ADP	_	_	_	_	_	AlignBegin=116464|AlignEnd=116714|GE=sur|Gloss=sur|nWord=19|RX=[ADP]
+28	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	comp:obj	_	AlignBegin=116714|AlignEnd=116963|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=19|RX=[PRON]
+29	w=	w=	CCONJ	_	_	30	cc	_	AlignBegin=116963|AlignEnd=117213|GE=et|Gloss=et|nWord=20|RX=[CCONJ]
+30	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=117213|AlignEnd=117462|GE=après_ça|Gloss=après_ça|nWord=20|RX=[ADV]
+31	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=117462|AlignEnd=117628|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=21|RX=[VERB]
+32	=l	=l	ADP	_	_	_	_	_	AlignBegin=117628|AlignEnd=117794|GE=à|Gloss=à|nWord=21|RX=[ADP]
+33	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	AlignBegin=117794|AlignEnd=117961|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=21|RX=[PRON]
+34	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=117961|AlignEnd=118460|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=22|RX=[PRON]
+35	ʿāyza	ʿāyza	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=118460|AlignEnd=118959|GE=[vouloir].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=vouloir|nWord=23|RX=[NOUN]
+36	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=118959|AlignEnd=119458|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=24|RX=[VERB]
+37	el=	el=	DET	_	Definite=Def	38	det	_	AlignBegin=119458|AlignEnd=119708|GE=[Definite=Def]|Gloss=Definiteness|nWord=25|RX=[DET]
+38	baby	baby	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=119708|AlignEnd=119957|GE=[noueau-né].[Foreign=Yes]|Gloss=noueau-né|nWord=25|RX=[NOUN]
+39	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=119957|AlignEnd=120205|GE=[Definite=Def]|Gloss=Definiteness|nWord=26|RX=[DET]
+40	ṣoġayyar	ṣoġayyar	ADJ	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=120205|AlignEnd=120453|GE=[petit].[Gender=Masc$Number=Sing]|Gloss=petit|nWord=26|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_41-41
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 120453, 124668
+# phonetic_text = waʾt =ha misikt =oh kida bin ʾīday =ya =ya
+# text = waʾtaha misiktoh kida bin ʾīdayya
+# text_fr =  en ce moment là, je l'ai tenu dans ma main§
+1	waʾt	waʾt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=120453|AlignEnd=120875|GE=[temps].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=120875|AlignEnd=121296|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	misikt	misikt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=121296|AlignEnd=121718|GE=[tenir].[Aspect=Perf$Number=Sing$Person=1]|Gloss=tenir|nWord=2|RX=[VERB]
+4	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=121718|AlignEnd=122139|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=2|RX=[PRON]
+5	kida	kida	INTJ	_	_	_	_	_	AlignBegin=122139|AlignEnd=122982|GE=comme_ça|Gloss=comme_ça|nWord=3|RX=[INTJ]
+6	bin	bin	ADP	_	_	_	_	_	AlignBegin=122982|AlignEnd=123825|GE=entre|Gloss=entre|nWord=4|RX=[ADP]
+7	ʾīday	ʾīday	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	6	comp:obj	_	AlignBegin=123825|AlignEnd=124247|GE=[main].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=main|nWord=5|RX=[NOUN]
+8	=ya	=ya	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=124247|AlignEnd=124668|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon-moi|nWord=5|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_42-42
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 124668, 130950
+# phonetic_text = kānit ḥitit ʾamarāya kida yaʿnī ṭifl ṣoġayyar lissa mawlūd kida w= w=
+# text = kānit ḥitit ʾamarāya kida yaʿnī ṭifl ṣoġayyar lissa mawlūd kida w
+# text_fr =  elle était très belle§ un petit bébé vient d'être né§
+1	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=124668|AlignEnd=125239|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=1|RX=[VERB]
+2	ḥitit	ḥitit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=125239|AlignEnd=125810|GE=[pièce].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=pièce|nWord=2|RX=[NOUN]
+3	ʾamarāya	ʾamarāya	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=125810|AlignEnd=126381|GE=[lunaire].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=lu=lnaire|nWord=3|RX=[ADJ]
+4	kida	kida	INTJ	_	_	_	_	_	AlignBegin=126381|AlignEnd=126952|GE=comme_ça|Gloss=comme_ça|nWord=4|RX=[INTJ]
+5	yaʿnī	yaʿnī	CONJ	_	_	_	_	_	AlignBegin=126952|AlignEnd=127523|GE=c'est-à-dire|Gloss=c'est-à-dire|nWord=5|RX=[CONJ]
+6	ṭifl	ṭifl	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=127523|AlignEnd=128094|GE=[enfant].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=enfant|nWord=6|RX=[NOUN]
+7	ṣoġayyar	ṣoġayyar	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=128094|AlignEnd=128665|GE=[petit].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=petit|nWord=7|RX=[ADJ]
+8	lissa	lissa	ADV	_	_	_	_	_	AlignBegin=128665|AlignEnd=129236|GE=récemment|Gloss=récemment|nWord=8|RX=[ADV]
+9	mawlūd	mawlūd	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=129236|AlignEnd=129807|GE=[naître].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=naî=natre|nWord=9|RX=[NOUN]
+10	kida	kida	INTJ	_	_	_	_	_	AlignBegin=129807|AlignEnd=130378|GE=comme_ça|Gloss=comme_ça|nWord=10|RX=[INTJ]
+11	w=	w=	CCONJ	_	_	_	_	_	AlignBegin=130378|AlignEnd=130950|GE=et|Gloss=et|nWord=11|RX=[CCONJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_43-43
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 130950, 132850
+# phonetic_text = bašrit =oh nāʿma
+# text = bašritoh nāʿma
+# text_fr =  sa peau est douce§
+1	bašrit	bašrit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=130950|AlignEnd=131425|GE=[peau].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=peau|nWord=1|RX=[NOUN]
+2	=oh	=oh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=131425|AlignEnd=131900|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=1|RX=[PRON]
+3	nāʿma	nāʿma	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=131900|AlignEnd=132850|GE=[douce].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=douce|nWord=2|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_44-44
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 132850, 136530
+# phonetic_text = fa kānit farḥit =ī =ībi= =h waṣla li= el= sama
+# text = fa kānit farḥitī bīh waṣla lissama
+# text_fr =  mon bonheur grâce à lui atteignait le ciel§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=132850|AlignEnd=133463|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=133463|AlignEnd=134076|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=2|RX=[VERB]
+3	farḥit	farḥit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=134076|AlignEnd=134382|GE=[bonheur].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=bonheur|nWord=3|RX=[NOUN]
+4	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=134382|AlignEnd=134689|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=3|RX=[PRON]
+5	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=134689|AlignEnd=134995|GE=par|Gloss=par|nWord=4|RX=[ADP]
+6	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=134995|AlignEnd=135302|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=4|RX=[PRON]
+7	waṣla	waṣla	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=135302|AlignEnd=135915|GE=[atteidre].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=atteidre|nWord=5|RX=[NOUN]
+8	li=	li=	ADP	_	_	_	_	_	AlignBegin=135915|AlignEnd=136120|GE=jusqu'à|Gloss=jusqu'à|nWord=6|RX=[ADP]
+9	el=	el=	DET	_	Definite=Def	10	det	_	AlignBegin=136120|AlignEnd=136325|GE=[Definite=Def]|Gloss=Definiteness|nWord=6|RX=[DET]
+10	sama	sama	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=136325|AlignEnd=136530|GE=[ciel].[Gender=Masc$Number=Sing]|Gloss=ciel|nWord=6|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_45-46
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 136530, 144204
+# phonetic_text = waʾt =ha euh kān ʿayzīn yaḫdū =h min =nī =nīʾolt =l =hom laʾ sibū =h ʾanā howwa ha= yifḍal fī ḥoḍn =ī w= miš ha= ʾaddī =h l= ʾayy ḥadd
+# text = waʾtaha euh kān ʿayzīn yaḫdūh minnī ʾoltlhom lā sibūh ʾanā howwa hayifḍal fī ḥoḍnī wmiš haʾaddīh lʾayy ḥadd
+# text_fr =  en ce moment là ils voulaient le prendre de mes bras, mais je dit non§ il va rester dans mes bras et personne ne le prendra§
+1	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=136530|AlignEnd=137060|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=137060|AlignEnd=137590|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	euh	euh	INTJ	_	_	_	_	_	AlignBegin=137590|AlignEnd=138651|GE=euh|Gloss=euh|nWord=2|RX=[INTJ]
+4	kān	kān	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=138651|AlignEnd=138998|GE=[être].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=être|nWord=3|RX=[VERB]
+5	ʿayzīn	ʿayzīn	NOUN	_	Definite=Ind|Number=Plur|VerbForm=Part	_	_	_	AlignBegin=138998|AlignEnd=139345|GE=[vouloir].[Definite=Ind$Number=Plur$VerbForm=Part]|Gloss=vouloir|nWord=4|RX=[NOUN]
+6	yaḫdū	yaḫdū	VERB	_	Aspect=Imp|Number=Plur|Person=3	_	_	_	AlignBegin=139345|AlignEnd=139519|GE=[prendre].[Aspect=Imp$Number=Plur$Person=3]|Gloss=prendre|nWord=5|RX=[VERB]
+7	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=139519|AlignEnd=139692|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=5|RX=[PRON]
+8	min	min	ADP	_	_	_	_	_	AlignBegin=139692|AlignEnd=139866|GE=de|Gloss=de|nWord=6|RX=[ADP]
+9	=nī	=nī	PRON	_	Number=Sing|Person=1|PronType=Prs	8	comp:obj	_	AlignBegin=139866|AlignEnd=140039|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=me|nWord=6|RX=[PRON]
+10	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=140039|AlignEnd=140155|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=7|RX=[VERB]
+11	=l	=l	ADP	_	_	_	_	_	AlignBegin=140155|AlignEnd=140271|GE=à|Gloss=à|nWord=7|RX=[ADP]
+12	=hom	=hom	PRON	_	Number=Plur|Person=3|PronType=Prs	11	comp:obj	_	AlignBegin=140271|AlignEnd=140386|GE=[Number=Plur$Person=3$PronType=Prs]|Gloss=leur-eux|nWord=7|RX=[PRON]
+13	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=140386|AlignEnd=140733|GE=[non].[Polarity=Neg]|Gloss=non|nWord=8|RX=[ADV]
+14	sibū	sibū	VERB	_	Mood=Imp|Number=Plur|Person=2	_	_	_	AlignBegin=140733|AlignEnd=140907|GE=[laisser].[Mood=Imp$Number=Plur$Person=2]|Gloss=lisser|nWord=9|RX=[VERB]
+15	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=140907|AlignEnd=141080|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=9|RX=[PRON]
+16	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=141080|AlignEnd=141427|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=10|RX=[PRON]
+17	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=141427|AlignEnd=141774|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=11|RX=[PRON]
+18	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=141774|AlignEnd=141948|GE=[Tense=Fut]|nWord=12|RX=[AUX]
+19	yifḍal	yifḍal	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=141948|AlignEnd=142121|GE=[rester].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=rester|nWord=12|RX=[VERB]
+20	fī	fī	ADP	_	_	_	_	_	AlignBegin=142121|AlignEnd=142468|GE=dans|Gloss=dans|nWord=13|RX=[ADP]
+21	ḥoḍn	ḥoḍn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	20	comp:obj	_	AlignBegin=142468|AlignEnd=142642|GE=[sein].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=sein|nWord=14|RX=[NOUN]
+22	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=142642|AlignEnd=142815|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=14|RX=[PRON]
+23	w=	w=	CCONJ	_	_	24	cc	_	AlignBegin=142815|AlignEnd=142989|GE=et|Gloss=et|nWord=15|RX=[CCONJ]
+24	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=142989|AlignEnd=143162|GE=[Polarity=Neg]|Gloss=NEG|nWord=15|RX=[PART]
+25	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=143162|AlignEnd=143278|GE=[Tense=Fut]|nWord=16|RX=[AUX]
+26	ʾaddī	ʾaddī	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=143278|AlignEnd=143394|GE=[donner].[Aspect=Imp$Number=Sing$Person=1]|Gloss=donner|nWord=16|RX=[VERB]
+27	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=143394|AlignEnd=143509|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=16|RX=[PRON]
+28	l=	l=	ADP	_	_	_	_	_	AlignBegin=143509|AlignEnd=143683|GE=à|Gloss=à|nWord=17|RX=[ADP]
+29	ʾayy	ʾayy	DET	_	_	30	det	_	AlignBegin=143683|AlignEnd=143856|GE=quelconque|Gloss=quelconque|nWord=17|RX=[DET]
+30	ḥadd	ḥadd	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	28	comp:obj	_	AlignBegin=143856|AlignEnd=144204|GE=[personne].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=personne|nWord=18|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_47-47
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 144204, 147712
+# phonetic_text = sāʿit =ha ʾaʿadt maska el= el=baby dā
+# text = sāʿitha ʾaʿadt maska elbaby dā
+# text_fr =  à ce moment, je continuais à tenir le bébé§
+1	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=144204|AlignEnd=144555|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=144555|AlignEnd=144906|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	ʾaʿadt	ʾaʿadt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=144906|AlignEnd=145608|GE=[rester].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rester|nWord=2|RX=[AUX]
+4	maska	maska	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=145608|AlignEnd=146310|GE=[tenir].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=tenir|nWord=3|RX=[NOUN]
+5	el=	el=	DET	_	Definite=Def	6	det	_	AlignBegin=146310|AlignEnd=146661|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+6	baby	baby	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=146661|AlignEnd=147012|GE=[noueau-né].[Foreign=Yes]|Gloss=noueau-né|nWord=4|RX=[NOUN]
+7	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=147012|AlignEnd=147712|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=5|RX=[DET]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_48-49
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 147712, 153232
+# phonetic_text = fakra ʾanā ʾaʿadt sahrāna bi= bi==h liḥadd el= sāʿa ḫamsa el= ṣobḥ sitta
+# text = fakra ʾanā ʾaʿadt sahrāna bīh liḥadd essāʿa ḫamsa eṣṣobḥ sitta
+# text_fr =  je me rappelle que je suis resté debout jusqu'à cinq ou six heures du matin§
+1	fakra	fakra	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=147712|AlignEnd=148121|GE=[se_rappeller].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=se_rappeller|nWord=1|RX=[NOUN]
+2	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=148121|AlignEnd=148530|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=2|RX=[PRON]
+3	ʾaʿadt	ʾaʿadt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=148530|AlignEnd=148939|GE=[rester].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rester|nWord=3|RX=[VERB]
+4	sahrāna	sahrāna	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=148939|AlignEnd=149348|GE=[éveillé].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=éveillé|nWord=4|RX=[NOUN]
+5	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=149348|AlignEnd=149552|GE=par|Gloss=par|nWord=5|RX=[ADP]
+6	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=149552|AlignEnd=149757|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=5|RX=[PRON]
+7	liḥadd	liḥadd	ADV	_	_	_	_	_	AlignBegin=149757|AlignEnd=150165|GE=jusqu'à|Gloss=jusqu'à|nWord=6|RX=[ADV]
+8	el=	el=	DET	_	Definite=Def	9	det	_	AlignBegin=150165|AlignEnd=150549|GE=[Definite=Def]|Gloss=Definiteness|nWord=7|RX=[DET]
+9	sāʿa	sāʿa	NOUN	_	Gender=Fem|Number=Sing	_	_	_	AlignBegin=150549|AlignEnd=150932|GE=[heure].[Gender=Fem$Number=Sing]|Gloss=heure|nWord=7|RX=[NOUN]
+10	ḫamsa	ḫamsa	NUM	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=150932|AlignEnd=151699|GE=[cinq].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=cinq|nWord=8|RX=[NUM]
+11	el=	el=	DET	_	Definite=Def	12	det	_	AlignBegin=151699|AlignEnd=152083|GE=[Definite=Def]|Gloss=Definiteness|nWord=9|RX=[DET]
+12	ṣobḥ	ṣobḥ	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=152083|AlignEnd=152466|GE=[matin].[Gender=Masc$Number=Sing]|Gloss=matin|nWord=9|RX=[NOUN]
+13	sitta	sitta	NUM	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=152466|AlignEnd=153232|GE=[six].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=six|nWord=10|RX=[NUM]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_50-50
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 153232, 159000
+# phonetic_text = w= w=koll šwayya mistanniyya ʾillī howwa yiftaḥ ʿyūn =h bi= ʾayy ṭarīʾa ʿašān ʾašūf ʿinī =h masalan lūn =ha ʾih
+# text = wkoll šwayya mistanniyya ʾillī howwa yiftaḥ ʿyūnoh biʾayy ṭarīʾa ʿašān ʾašūf ʿinīh masalan lūnha ʾih
+# text_fr =  à chaque moment, j'attendais qu'il ouvre ses yeux pour connaître leur couleur§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=153232|AlignEnd=153424|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	koll	koll	DET	_	_	3	det	_	AlignBegin=153424|AlignEnd=153617|GE=tout|Gloss=tout|nWord=1|RX=[DET]
+3	šwayya	šwayya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=153617|AlignEnd=154002|GE=[un_petit_peu].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=un_petit_peu|nWord=2|RX=[NOUN]
+4	mistanniyya	mistanniyya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=154002|AlignEnd=154387|GE=[attendre].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=attendre|nWord=3|RX=[NOUN]
+5	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=154387|AlignEnd=154772|GE=[PronType=Rel]|nWord=4|RX=[PRON]
+6	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=154772|AlignEnd=155157|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=5|RX=[PRON]
+7	yiftaḥ	yiftaḥ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=155157|AlignEnd=155542|GE=[ouvrir].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=ouvrir|nWord=6|RX=[VERB]
+8	ʿyūn	ʿyūn	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=155542|AlignEnd=155734|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=7|RX=[NOUN]
+9	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=155734|AlignEnd=155927|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=7|RX=[PRON]
+10	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=155927|AlignEnd=156119|GE=par|Gloss=par|nWord=8|RX=[ADP]
+11	ʾayy	ʾayy	DET	_	_	12	det	_	AlignBegin=156119|AlignEnd=156312|GE=quelconque|Gloss=quelconque|nWord=8|RX=[DET]
+12	ṭarīʾa	ṭarīʾa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=156312|AlignEnd=156697|GE=[moyen].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=moyen|nWord=9|RX=[NOUN]
+13	ʿašān	ʿašān	SCONJ	_	_	_	_	_	AlignBegin=156697|AlignEnd=157082|GE=au_cas_où|Gloss=au_cas_où|nWord=10|RX=[SCONJ]
+14	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=157082|AlignEnd=157467|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=11|RX=[VERB]
+15	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=157467|AlignEnd=157659|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=12|RX=[NOUN]
+16	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=157659|AlignEnd=157852|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=12|RX=[PRON]
+17	masalan	masalan	ADV	_	_	_	_	_	AlignBegin=157852|AlignEnd=158237|GE=par_exemple|Gloss=par_exemple|nWord=13|RX=[ADV]
+18	lūn	lūn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=158237|AlignEnd=158429|GE=[couleur].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=couleur|nWord=14|RX=[NOUN]
+19	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=158429|AlignEnd=158622|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=14|RX=[PRON]
+20	ʾih	ʾih	ADV	_	PronType=Int	_	_	_	AlignBegin=158622|AlignEnd=159000|GE=[PronType=Int]|nWord=15|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_51-53
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 159000, 170723
+# phonetic_text = ṭabʿan ʾanā kont euh koll ma= ma=ʾaftikir el= mowqif dā b= ʾadḥak ʿalā nafs =ī w= b= ʾadḥak ʾillī howwa ʾanā ʾizzay kont habla kida w= w= kaʾin ṭifla ṣoġayyara frḥāna bi= ḥāga māmā gābit =ha =l =ha
+# text = ṭabʿan ʾanā kont euh koll maftikir elmowqif dā badḥak ʿalā nafsī wbadḥak ʾillī howwa ʾanā ʾizzay kont habla kida w wkaʾin ṭifla ṣoġayyara frḥāna biḥāga māmā gābithalha
+# text_fr =  j'étais bien sûr à chaque fois que je me souviens de cette situation je ris de moi-même et je ris comment j'étais naïve comme ça comme une petite enfant, heureuse d'un cadeau que sa mère lui a offert§
+1	ṭabʿan	ṭabʿan	ADV	_	_	_	_	_	AlignBegin=159000|AlignEnd=159526|GE=bien_sûr|Gloss=bien_sûr|nWord=1|RX=[ADV]
+2	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=159526|AlignEnd=160052|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=2|RX=[PRON]
+3	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=160052|AlignEnd=160578|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=3|RX=[VERB]
+4	euh	euh	INTJ	_	_	_	_	_	AlignBegin=160578|AlignEnd=161104|GE=euh|Gloss=euh|nWord=4|RX=[INTJ]
+5	koll	koll	DET	_	_	_	_	_	AlignBegin=161104|AlignEnd=161630|GE=tout|Gloss=tout|nWord=5|RX=[DET]
+6	ma=	ma=	ADP	_	_	_	_	_	AlignBegin=161630|AlignEnd=161893|GE=que|Gloss=que|nWord=6|RX=[ADP]
+7	ʾaftikir	ʾaftikir	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=161893|AlignEnd=162156|GE=[se_rappeler].[Aspect=Imp$Number=Sing$Person=1]|Gloss=se_rappeler|nWord=6|RX=[VERB]
+8	el=	el=	DET	_	Definite=Def	9	det	_	AlignBegin=162156|AlignEnd=162419|GE=[Definite=Def]|Gloss=Definiteness|nWord=7|RX=[DET]
+9	mowqif	mowqif	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=162419|AlignEnd=162682|GE=[situation].[Gender=Masc$Number=Sing]|Gloss=situation|nWord=7|RX=[NOUN]
+10	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=162682|AlignEnd=163209|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=8|RX=[DET]
+11	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=163209|AlignEnd=163359|GE=[Mood=Ind]|nWord=9|RX=[AUX]
+12	ʾadḥak	ʾadḥak	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=163359|AlignEnd=163508|GE=[rire].[Aspect=Imp$Number=Sing$Person=1]|Gloss=rire|nWord=9|RX=[VERB]
+13	ʿalā	ʿalā	ADP	_	_	_	_	_	AlignBegin=163508|AlignEnd=163807|GE=sur|Gloss=sur|nWord=10|RX=[ADP]
+14	nafs	nafs	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=163807|AlignEnd=163957|GE=[soi-même].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=soi-même|nWord=11|RX=[NOUN]
+15	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=163957|AlignEnd=164106|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=11|RX=[PRON]
+16	w=	w=	CCONJ	_	_	17	cc	_	AlignBegin=164106|AlignEnd=164206|GE=et|Gloss=et|nWord=12|RX=[CCONJ]
+17	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=164206|AlignEnd=164306|GE=[Mood=Ind]|nWord=12|RX=[AUX]
+18	ʾadḥak	ʾadḥak	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=164306|AlignEnd=164405|GE=[rire].[Aspect=Imp$Number=Sing$Person=1]|Gloss=rire|nWord=12|RX=[VERB]
+19	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=164405|AlignEnd=164704|GE=[PronType=Rel]|nWord=13|RX=[PRON]
+20	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=164704|AlignEnd=165003|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=14|RX=[PRON]
+21	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=165003|AlignEnd=165302|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=15|RX=[PRON]
+22	ʾizzay	ʾizzay	ADV	_	PronType=Int	_	_	_	AlignBegin=165302|AlignEnd=165601|GE=[PronType=Int]|nWord=16|RX=[ADV]
+23	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=165601|AlignEnd=165900|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=17|RX=[VERB]
+24	habla	habla	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=165900|AlignEnd=166199|GE=[naïf].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=naï=naf|nWord=18|RX=[ADJ]
+25	kida	kida	INTJ	_	_	_	_	_	AlignBegin=166199|AlignEnd=166498|GE=comme_ça|Gloss=comme_ça|nWord=19|RX=[INTJ]
+26	w=	w=	CCONJ	_	_	27	cc	_	AlignBegin=166498|AlignEnd=166795|GE=et|Gloss=et|nWord=20|RX=[CCONJ]
+27	w=	w=	CCONJ	_	_	28	cc	_	AlignBegin=166795|AlignEnd=167075|GE=et|Gloss=et|nWord=21|RX=[CCONJ]
+28	kaʾin	kaʾin	SCONJ	_	_	_	_	_	AlignBegin=167075|AlignEnd=167356|GE=comme_si|Gloss=comme_si|nWord=21|RX=[SCONJ]
+29	ṭifla	ṭifla	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=167356|AlignEnd=167917|GE=[enfant].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=enfant|nWord=22|RX=[NOUN]
+30	ṣoġayyara	ṣoġayyara	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=167917|AlignEnd=168478|GE=[petit].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=petit|nWord=23|RX=[ADJ]
+31	frḥāna	frḥāna	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=168478|AlignEnd=169039|GE=[heureux].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=heureux|nWord=24|RX=[ADJ]
+32	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=169039|AlignEnd=169319|GE=par|Gloss=par|nWord=25|RX=[ADP]
+33	ḥāga	ḥāga	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	32	comp:obj	_	AlignBegin=169319|AlignEnd=169600|GE=[chose].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=chose|nWord=25|RX=[NOUN]
+34	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=169600|AlignEnd=170161|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=26|RX=[NOUN]
+35	gābit	gābit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=170161|AlignEnd=170301|GE=[apporter].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=apporter|nWord=27|RX=[VERB]
+36	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=170301|AlignEnd=170441|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=27|RX=[PRON]
+37	=l	=l	ADP	_	_	_	_	_	AlignBegin=170441|AlignEnd=170581|GE=pour|Gloss=pour|nWord=27|RX=[ADP]
+38	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	comp:obj	_	AlignBegin=170581|AlignEnd=170723|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=27|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_54-54
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 170723, 176397
+# phonetic_text = ʾaʿadt mistanniyya ʾillī hiyya tiftaḥ ʿinī =ha w= w=b= ʾaḥāwil bi= ʾayy ṭarīʾa ʿašān tiṣḥa
+# text = ʾaʿadt mistanniyya ʾillī hiyya tiftaḥ ʿinīha wbʾaḥāwil biʾayy ṭarīʾa ʿašān tiṣḥa
+# text_fr =  j'attendais qu'elle ouvre les yeux et j'essayais par tous les moyens de la réveiller§
+1	ʾaʿadt	ʾaʿadt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=170723|AlignEnd=171239|GE=[rester].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rester|nWord=1|RX=[AUX]
+2	mistanniyya	mistanniyya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=171239|AlignEnd=171755|GE=[attendre].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=attendre|nWord=2|RX=[NOUN]
+3	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=171755|AlignEnd=172271|GE=[PronType=Rel]|nWord=3|RX=[PRON]
+4	hiyya	hiyya	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=172271|AlignEnd=172787|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=4|RX=[PRON]
+5	tiftaḥ	tiftaḥ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=172787|AlignEnd=173303|GE=[ouvrir].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=ouvrir|nWord=5|RX=[VERB]
+6	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=173303|AlignEnd=173561|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=6|RX=[NOUN]
+7	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=173561|AlignEnd=173819|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=6|RX=[PRON]
+8	w=	w=	CCONJ	_	_	9	cc	_	AlignBegin=173819|AlignEnd=173991|GE=et|Gloss=et|nWord=7|RX=[CCONJ]
+9	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=173991|AlignEnd=174163|GE=[Mood=Ind]|nWord=7|RX=[AUX]
+10	ʾaḥāwil	ʾaḥāwil	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=174163|AlignEnd=174335|GE=[essayer].[Aspect=Imp$Number=Sing$Person=1]|Gloss=essayer|nWord=7|RX=[VERB]
+11	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=174335|AlignEnd=174593|GE=par|Gloss=par|nWord=8|RX=[ADP]
+12	ʾayy	ʾayy	DET	_	_	13	det	_	AlignBegin=174593|AlignEnd=174851|GE=quelconque|Gloss=quelconque|nWord=8|RX=[DET]
+13	ṭarīʾa	ṭarīʾa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=174851|AlignEnd=175367|GE=[moyen].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=moyen|nWord=9|RX=[NOUN]
+14	ʿašān	ʿašān	SCONJ	_	_	_	_	_	AlignBegin=175367|AlignEnd=175883|GE=au_cas_où|Gloss=au_cas_où|nWord=10|RX=[SCONJ]
+15	tiṣḥa	tiṣḥa	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=175883|AlignEnd=176397|GE=[réveiller].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=réveiller|nWord=11|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_55-55
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 176402, 178281
+# phonetic_text = ma= ma=kān =š rāḍya tiṣḥa maʿā =ya
+# text = makānš rāḍya tiṣḥa maʿāya
+# text_fr =  elle ne voulait pas réveiller avec moi§
+1	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=176402|AlignEnd=176559|GE=[Polarity=Neg]|Gloss=SubConj|nWord=1|RX=[PART]
+2	kān	kān	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=176559|AlignEnd=176716|GE=[être].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=être|nWord=1|RX=[VERB]
+3	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=176716|AlignEnd=176872|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=1|RX=[PART]
+4	rāḍya	rāḍya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=176872|AlignEnd=177342|GE=[vouloir].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=vouloir|nWord=2|RX=[NOUN]
+5	tiṣḥa	tiṣḥa	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=177342|AlignEnd=177812|GE=[réveiller].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=réveiller|nWord=3|RX=[VERB]
+6	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=177812|AlignEnd=178046|GE=avec|Gloss=avec|nWord=4|RX=[ADP]
+7	=ya	=ya	PRON	_	Number=Sing|Person=1|PronType=Prs	6	comp:obj	_	AlignBegin=178046|AlignEnd=178281|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon-moi|nWord=4|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_56-57
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 178281, 183060
+# phonetic_text = w= w=baʿdin ʾāḫir ma= zihʾt kida ʿalā el= ṣobḥ kida ʾolt =l =ha laʾ ʾanā lāzim ʾašūf =ik ʾabl ma= ʾanām
+# text = wbaʿdin ʾāḫir mazihʾt kida ʿalā eṣṣobḥ kida ʾoltlha laʾ ʾanā lāzim ʾašūfik ʾabl maʾanām
+# text_fr =  et après, quand je m'ennuyais le matin je lui a dit non§ je dois te voir avant de dormir§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=178281|AlignEnd=178460|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=178460|AlignEnd=178639|GE=après_ça|Gloss=après_ça|nWord=1|RX=[ADV]
+3	ʾāḫir	ʾāḫir	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=178639|AlignEnd=178997|GE=[dernier].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=dernier|nWord=2|RX=[ADJ]
+4	ma=	ma=	ADP	_	_	_	_	_	AlignBegin=178997|AlignEnd=179176|GE=que|Gloss=que|nWord=3|RX=[ADP]
+5	zihʾt	zihʾt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=179176|AlignEnd=179355|GE=[ennuyer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=ennuyer|nWord=3|RX=[VERB]
+6	kida	kida	INTJ	_	_	_	_	_	AlignBegin=179355|AlignEnd=179713|GE=comme_ça|Gloss=comme_ça|nWord=4|RX=[INTJ]
+7	ʿalā	ʿalā	ADP	_	_	_	_	_	AlignBegin=179713|AlignEnd=180071|GE=sur|Gloss=sur|nWord=5|RX=[ADP]
+8	el=	el=	DET	_	Definite=Def	9	det	_	AlignBegin=180071|AlignEnd=180250|GE=[Definite=Def]|Gloss=Definiteness|nWord=6|RX=[DET]
+9	ṣobḥ	ṣobḥ	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=180250|AlignEnd=180429|GE=[matin].[Gender=Masc$Number=Sing]|Gloss=matin|nWord=6|RX=[NOUN]
+10	kida	kida	INTJ	_	_	_	_	_	AlignBegin=180429|AlignEnd=180784|GE=comme_ça|Gloss=comme_ça|nWord=7|RX=[INTJ]
+11	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=180784|AlignEnd=180892|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=8|RX=[VERB]
+12	=l	=l	ADP	_	_	_	_	_	AlignBegin=180892|AlignEnd=181000|GE=à|Gloss=à|nWord=8|RX=[ADP]
+13	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	comp:obj	_	AlignBegin=181000|AlignEnd=181109|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=8|RX=[PRON]
+14	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=181109|AlignEnd=181434|GE=[non].[Polarity=Neg]|Gloss=non|nWord=9|RX=[ADV]
+15	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=181434|AlignEnd=181759|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=10|RX=[PRON]
+16	lāzim	lāzim	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=181759|AlignEnd=182084|GE=[nécessiter].[Definite=Ind$Gender=Masc$Number=Sing$VerbForm=Part]|Gloss=nécessiter|nWord=11|RX=[NOUN]
+17	ʾašūf	ʾašūf	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=182084|AlignEnd=182246|GE=[voir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=voir|nWord=12|RX=[VERB]
+18	=ik	=ik	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=182246|AlignEnd=182409|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=12|RX=[PRON]
+19	ʾabl	ʾabl	ADV	_	_	_	_	_	AlignBegin=182409|AlignEnd=182734|GE=avant|Gloss=avant|nWord=13|RX=[ADV]
+20	ma=	ma=	ADP	_	_	_	_	_	AlignBegin=182734|AlignEnd=182897|GE=que|Gloss=que|nWord=14|RX=[ADP]
+21	ʾanām	ʾanām	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=182897|AlignEnd=183060|GE=[dormir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=dormir|nWord=14|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_58-58
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 183060, 184785
+# phonetic_text = lāzim tifattaḥī ʿinī =kī bi= bi=ʾayy ṭarīʾa
+# text = lāzim tifattaḥī ʿinīkī biʾayy ṭarīʾa
+# text_fr =  tu dois ouvrir les yeux de toute façon!§
+1	lāzim	lāzim	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=183060|AlignEnd=183405|GE=[nécessiter].[Definite=Ind$Gender=Masc$Number=Sing$VerbForm=Part]|Gloss=nécessiter|nWord=1|RX=[NOUN]
+2	tifattaḥī	tifattaḥī	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=2	_	_	_	AlignBegin=183405|AlignEnd=183750|GE=[ouvrir].[Aspect=Imp$Gender=Fem$Number=Sing$Person=2]|Gloss=ouvrir|nWord=2|RX=[VERB]
+3	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=183750|AlignEnd=183922|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=3|RX=[NOUN]
+4	=kī	=kī	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=183922|AlignEnd=184095|GE=[Gender=Fem$Number=Sing$Person=2$PronType=Prs]|nWord=3|RX=[PRON]
+5	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=184095|AlignEnd=184267|GE=par|Gloss=par|nWord=4|RX=[ADP]
+6	ʾayy	ʾayy	DET	_	_	7	det	_	AlignBegin=184267|AlignEnd=184440|GE=quelconque|Gloss=quelconque|nWord=4|RX=[DET]
+7	ṭarīʾa	ṭarīʾa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=184440|AlignEnd=184785|GE=[moyen].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=moyen|nWord=5|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_59-59
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 184795, 186760
+# phonetic_text = fa ḥāwilt ʾaṣaḥḥī fī =ha
+# text = fa ḥāwilt ʾaṣaḥḥī fīha
+# text_fr =  donc, j'ai essayé de la réveiller§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=184795|AlignEnd=185286|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	ḥāwilt	ḥāwilt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=185286|AlignEnd=185777|GE=[essayer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=essayer|nWord=2|RX=[VERB]
+3	ʾaṣaḥḥī	ʾaṣaḥḥī	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=185777|AlignEnd=186268|GE=[réveiller].[Aspect=Imp$Number=Sing$Person=1]|Gloss=réveiller|nWord=3|RX=[VERB]
+4	fī	fī	ADP	_	_	_	_	_	AlignBegin=186268|AlignEnd=186514|GE=dans|Gloss=dans|nWord=4|RX=[ADP]
+5	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=186514|AlignEnd=186760|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=4|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_60-60
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 186762, 188835
+# phonetic_text = fa ṣiḥyit maʿā =ya =ya
+# text = fa ṣiḥyit maʿāya
+# text_fr =  alors, elle s'est réveillée§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=186762|AlignEnd=187453|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	ṣiḥyit	ṣiḥyit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=187453|AlignEnd=188144|GE=[se_réveiller].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=se_réveiller|nWord=2|RX=[VERB]
+3	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=188144|AlignEnd=188490|GE=avec|Gloss=avec|nWord=3|RX=[ADP]
+4	=ya	=ya	PRON	_	Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=188490|AlignEnd=188835|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon-moi|nWord=3|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_61-61
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 188839, 195005
+# phonetic_text = baṣṣit fī ʿinī =ha laʾīt ʿinī =ha lūn =ha bonnī kida w= w=ʾitbasaṭt giddan ʾin lūn ʿinī =ha zayy lūn ʿin =ī
+# text = baṣṣit fī ʿinīha laʾīt ʿinīha lūnha bonnī kida witbasaṭt giddan ʾin lūn ʿinīha zayy lūn ʿinī
+# text_fr =  j'ai regardé dans ses yeux et les ai trouvés bruns§ j'étais si heureux quand j'ai trouvé que ses yeux sont de la même couleur que les miens§
+1	baṣṣit	baṣṣit	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=188839|AlignEnd=189224|GE=[regarder].[Aspect=Perf$Number=Sing$Person=1]|Gloss=regarder|nWord=1|RX=[VERB]
+2	fī	fī	ADP	_	_	_	_	_	AlignBegin=189224|AlignEnd=189609|GE=dans|Gloss=dans|nWord=2|RX=[ADP]
+3	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=189609|AlignEnd=189801|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=3|RX=[NOUN]
+4	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=189801|AlignEnd=189994|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=3|RX=[PRON]
+5	laʾīt	laʾīt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=189994|AlignEnd=190379|GE=[trouver].[Aspect=Perf$Number=Sing$Person=1]|Gloss=trouver|nWord=4|RX=[VERB]
+6	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=190379|AlignEnd=190571|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=5|RX=[NOUN]
+7	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=190571|AlignEnd=190764|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=5|RX=[PRON]
+8	lūn	lūn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=190764|AlignEnd=190956|GE=[couleur].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=couleur|nWord=6|RX=[NOUN]
+9	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=190956|AlignEnd=191149|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=6|RX=[PRON]
+10	bonnī	bonnī	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=191149|AlignEnd=191534|GE=[brun].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=brun|nWord=7|RX=[ADJ]
+11	kida	kida	INTJ	_	_	_	_	_	AlignBegin=191534|AlignEnd=191919|GE=comme_ça|Gloss=comme_ça|nWord=8|RX=[INTJ]
+12	w=	w=	CCONJ	_	_	13	cc	_	AlignBegin=191919|AlignEnd=192111|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+13	ʾitbasaṭt	ʾitbasaṭt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=192111|AlignEnd=192304|GE=[devenir_heureux].[Aspect=Perf$Number=Sing$Person=1]|Gloss=devenir_heureux|nWord=9|RX=[VERB]
+14	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=192304|AlignEnd=192689|GE=très|Gloss=très|nWord=10|RX=[ADV]
+15	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=192689|AlignEnd=193074|GE=[COMP]|Gloss=que|nWord=11|RX=[SCONJ]
+16	lūn	lūn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=193074|AlignEnd=193459|GE=[couleur].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=couleur|nWord=12|RX=[NOUN]
+17	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=193459|AlignEnd=193651|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=13|RX=[NOUN]
+18	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=193651|AlignEnd=193844|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=13|RX=[PRON]
+19	zayy	zayy	ADJ	_	Degree=Cmp	_	_	_	AlignBegin=193844|AlignEnd=194229|GE=[Degree=Cmp]|Gloss=comme|nWord=14|RX=[ADJ]
+20	lūn	lūn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=194229|AlignEnd=194614|GE=[couleur].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=couleur|nWord=15|RX=[NOUN]
+21	ʿin	ʿin	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=194614|AlignEnd=194810|GE=[œil].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=œil|nWord=16|RX=[NOUN]
+22	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=194810|AlignEnd=195005|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=16|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_62-63
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 195005, 205325
+# phonetic_text = kont mabsūṭa bi= bi==ha giddan kida kaʾin el= hidiyya dī bitāʿt =ī ʾanā miš kaʾin ʾoḫt =ī b= ʾaḥissa =ha kida kaʾin =ha bint =ī el= ṣoġayyara
+# text = kont mabsūṭa bīha giddan kida kaʾin elhidiyya dī bitāʿtī ʾanā miš kaʾin ʾoḫtī baḥissaha kida kaʾinaha bintī eṣṣoġayyara
+# text_fr =  j’étais si heureuse avec elle comme si ce cadeau m'appartenait, pas ma soeur, mais ma petite fille§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=195005|AlignEnd=195738|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	mabsūṭa	mabsūṭa	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=195738|AlignEnd=196471|GE=[content].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=content|nWord=2|RX=[ADJ]
+3	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=196471|AlignEnd=196837|GE=par|Gloss=par|nWord=3|RX=[ADP]
+4	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=196837|AlignEnd=197204|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=3|RX=[PRON]
+5	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=197204|AlignEnd=197937|GE=très|Gloss=très|nWord=4|RX=[ADV]
+6	kida	kida	INTJ	_	_	_	_	_	AlignBegin=197937|AlignEnd=198668|GE=comme_ça|Gloss=comme_ça|nWord=5|RX=[INTJ]
+7	kaʾin	kaʾin	SCONJ	_	_	_	_	_	AlignBegin=198668|AlignEnd=199180|GE=comme_si|Gloss=comme_si|nWord=6|RX=[SCONJ]
+8	el=	el=	DET	_	Definite=Def	9	det	_	AlignBegin=199180|AlignEnd=199436|GE=[Definite=Def]|Gloss=Definiteness|nWord=7|RX=[DET]
+9	hidiyya	hidiyya	NOUN	_	Gender=Fem|Number=Sing	_	_	_	AlignBegin=199436|AlignEnd=199692|GE=[cadeau].[Gender=Fem$Number=Sing]|Gloss=cadeau|nWord=7|RX=[NOUN]
+10	dī	dī	DET	_	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	AlignBegin=199692|AlignEnd=200204|GE=[Number=Sing$Gender=Fem$PronType=Dem]|nWord=8|RX=[DET]
+11	bitāʿt	bitāʿt	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=200204|AlignEnd=200460|GE=[possession].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=possession|nWord=9|RX=[NOUN]
+12	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=200460|AlignEnd=200716|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=9|RX=[PRON]
+13	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=200716|AlignEnd=201228|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=10|RX=[PRON]
+14	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=201228|AlignEnd=201740|GE=[Polarity=Neg]|Gloss=NEG|nWord=11|RX=[PART]
+15	kaʾin	kaʾin	SCONJ	_	_	_	_	_	AlignBegin=201740|AlignEnd=202252|GE=comme_si|Gloss=comme_si|nWord=12|RX=[SCONJ]
+16	ʾoḫt	ʾoḫt	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=202252|AlignEnd=202508|GE=[sœur].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=sœur|nWord=13|RX=[NOUN]
+17	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=202508|AlignEnd=202764|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=13|RX=[PRON]
+18	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=202764|AlignEnd=202935|GE=[Mood=Ind]|nWord=14|RX=[AUX]
+19	ʾaḥissa	ʾaḥissa	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=202935|AlignEnd=203106|GE=[se_sentir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=se_sentir|nWord=14|RX=[VERB]
+20	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=203106|AlignEnd=203276|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=14|RX=[PRON]
+21	kida	kida	INTJ	_	_	_	_	_	AlignBegin=203276|AlignEnd=203788|GE=comme_ça|Gloss=comme_ça|nWord=15|RX=[INTJ]
+22	kaʾin	kaʾin	SCONJ	_	_	_	_	_	AlignBegin=203788|AlignEnd=204044|GE=comme_si|Gloss=comme_si|nWord=16|RX=[SCONJ]
+23	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=204044|AlignEnd=204300|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=16|RX=[PRON]
+24	bint	bint	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=204300|AlignEnd=204556|GE=[fille].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=fille|nWord=17|RX=[NOUN]
+25	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=204556|AlignEnd=204812|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=17|RX=[PRON]
+26	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=204812|AlignEnd=205068|GE=[Definite=Def]|Gloss=Definiteness|nWord=18|RX=[DET]
+27	ṣoġayyara	ṣoġayyara	ADJ	_	Gender=Fem|Number=Sin	_	_	_	AlignBegin=205068|AlignEnd=205325|GE=[petit].[Gender=Fem$Number=Sin]|Gloss=petit|nWord=18|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_64-64
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 205325, 210955
+# phonetic_text = waʾt =ha roḥt ʾolt laʾ hiyya lāzim tākol baʾa w= w=gaʿāna
+# text = waʾtha roḥt ʾolt laʾ hiyya lāzim tākol baʾa wgaʿāna
+# text_fr =  C'est là que j'ai dit non§ elle doit manger et elle est affamée§
+1	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=205325|AlignEnd=205638|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=205638|AlignEnd=205951|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	roḥt	roḥt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=205951|AlignEnd=206577|GE=[aller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=aller|nWord=2|RX=[AUX]
+4	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=206577|AlignEnd=207203|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=3|RX=[VERB]
+5	laʾ	laʾ	ADV	_	Polarity=Neg	_	_	_	AlignBegin=207203|AlignEnd=207829|GE=[non].[Polarity=Neg]|Gloss=non|nWord=4|RX=[ADV]
+6	hiyya	hiyya	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=207829|AlignEnd=208455|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=5|RX=[PRON]
+7	lāzim	lāzim	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=208455|AlignEnd=209081|GE=[nécessiter].[Definite=Ind$Gender=Masc$Number=Sing$VerbForm=Part]|Gloss=nécessiter|nWord=6|RX=[NOUN]
+8	tākol	tākol	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=209081|AlignEnd=209707|GE=[manger].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=manger|nWord=7|RX=[VERB]
+9	baʾa	baʾa	ADV	_	_	_	_	_	AlignBegin=209707|AlignEnd=210333|GE=donc|Gloss=donc|nWord=8|RX=[ADV]
+10	w=	w=	CCONJ	_	_	11	cc	_	AlignBegin=210333|AlignEnd=210644|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+11	gaʿāna	gaʿāna	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=210644|AlignEnd=210955|GE=[affamé].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=affamé|nWord=9|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_65-65
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 210955, 213215
+# phonetic_text = w= w=miš ha= yinfaʿ ʾasīb =ha gaʿāna ʾanā
+# text = wmiš hayinfaʿ ʾasībha gaʿāna ʾanā
+# text_fr =  Il ne faut pas la laisser affamée§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=210955|AlignEnd=211181|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=211181|AlignEnd=211407|GE=[Polarity=Neg]|Gloss=NEG|nWord=1|RX=[PART]
+3	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=211407|AlignEnd=211633|GE=[Tense=Fut]|nWord=2|RX=[AUX]
+4	yinfaʿ	yinfaʿ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=211633|AlignEnd=211859|GE=[marcher].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=marcher|nWord=2|RX=[VERB]
+5	ʾasīb	ʾasīb	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=211859|AlignEnd=212085|GE=[laisser].[Aspect=Imp$Number=Sing$Person=1]|Gloss=lisser|nWord=3|RX=[VERB]
+6	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=212085|AlignEnd=212311|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=3|RX=[PRON]
+7	gaʿāna	gaʿāna	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=212311|AlignEnd=212763|GE=[affamé].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=affamé|nWord=4|RX=[ADJ]
+8	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=212763|AlignEnd=213215|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=5|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_66-66
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 213215, 215535
+# phonetic_text = roḥt sāʿit =ha ṣaḥḥit māmā
+# text = roḥt sāʿitha ṣaḥḥit māmā
+# text_fr =  alots, j'ai réveillé ma mère§
+1	roḥt	roḥt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=213215|AlignEnd=213795|GE=[aller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=aller|nWord=1|RX=[AUX]
+2	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=213795|AlignEnd=214085|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=2|RX=[NOUN]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=214085|AlignEnd=214375|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+4	ṣaḥḥit	ṣaḥḥit	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=214375|AlignEnd=214955|GE=[réveiller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=réveiller|nWord=3|RX=[VERB]
+5	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=214955|AlignEnd=215535|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=4|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_67-67
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 215535, 217055
+# phonetic_text = kānit nayma
+# text = kānit nayma
+# text_fr =  elle dormait§
+1	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=215535|AlignEnd=216295|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=1|RX=[VERB]
+2	nayma	nayma	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=216295|AlignEnd=217055|GE=[endormi].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=endormi|nWord=2|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_68-68
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 217055, 219596
+# phonetic_text = ʾolt l= =ha yā māmā hiyya ṣiḥyit
+# text = ʾoltlaha yā māmā hiyya ṣiḥyit
+# text_fr =  j'ai dit à maman qu'elle est réveillée§
+1	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=217055|AlignEnd=217224|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=1|RX=[VERB]
+2	l=	l=	ADP	_	_	_	_	_	AlignBegin=217224|AlignEnd=217393|GE=à|Gloss=à|nWord=1|RX=[ADP]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=217393|AlignEnd=217563|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+4	yā	yā	PART	_	_	_	_	_	AlignBegin=217563|AlignEnd=218071|GE=hé|Gloss=hé|nWord=2|RX=[PART]
+5	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=218071|AlignEnd=218579|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=3|RX=[NOUN]
+6	hiyya	hiyya	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=218579|AlignEnd=219087|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=4|RX=[PRON]
+7	ṣiḥyit	ṣiḥyit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=219087|AlignEnd=219596|GE=[se_réveiller].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=se_réveiller|nWord=5|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_69-69
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 219596, 224088
+# phonetic_text = euh ʾakkilī =ha bʾā ʿalašān ma= ma=tgoʿ =š w= ma= tʿyaṭ =š
+# text = euh ʾakkilīha bʾā ʿalašān matgoʿš wmatʿyaṭš
+# text_fr =  nourris-la pour ne pas avoir faim ou pleurer§
+1	euh	euh	INTJ	_	_	_	_	_	AlignBegin=219596|AlignEnd=220345|GE=euh|Gloss=euh|nWord=1|RX=[INTJ]
+2	ʾakkilī	ʾakkilī	VERB	_	Gender=Fem|Mood=Imp|Number=Sing|Person=2	_	_	_	AlignBegin=220345|AlignEnd=220719|GE=[nourrir].[Gender=Fem$Mood=Imp$Number=Sing$Person=2]|Gloss=nourrir|nWord=2|RX=[VERB]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=220719|AlignEnd=221094|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+4	bʾā	bʾā	ADV	_	_	_	_	_	AlignBegin=221094|AlignEnd=221843|GE=alors|Gloss=alors|nWord=3|RX=[ADV]
+5	ʿalašān	ʿalašān	ADP	_	_	_	_	_	AlignBegin=221843|AlignEnd=222592|GE=pour|Gloss=pour|nWord=4|RX=[ADP]
+6	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=222592|AlignEnd=222842|GE=[Polarity=Neg]|Gloss=SubConj|nWord=5|RX=[PART]
+7	tgoʿ	tgoʿ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=222842|AlignEnd=223092|GE=[avoir_faim].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=avoir_faim|nWord=5|RX=[VERB]
+8	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=223092|AlignEnd=223341|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=5|RX=[PART]
+9	w=	w=	CCONJ	_	_	10	cc	_	AlignBegin=223341|AlignEnd=223528|GE=et|Gloss=et|nWord=6|RX=[CCONJ]
+10	ma=	ma=	PART	_	Polarity=Neg	_	_	_	AlignBegin=223528|AlignEnd=223715|GE=[Polarity=Neg]|Gloss=SubConj|nWord=6|RX=[PART]
+11	tʿyaṭ	tʿyaṭ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=223715|AlignEnd=223902|GE=[pleurer].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=pleurer|nWord=6|RX=[VERB]
+12	=š	=š	PART	_	Polarity=Neg	_	_	_	AlignBegin=223902|AlignEnd=224088|GE=[Polarity=Neg]|Gloss=NegationMarker|nWord=6|RX=[PART]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_70-71
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 224091, 230729
+# phonetic_text = roḥt ʾiddit =ha li= li=māmā sāʿit =ha w= ʾaʿadit tiʾakkil =ha
+# text = roḥt ʾidditha limāmā sāʿitha wʾaʿadit tiʾakkilha
+# text_fr =  alors, je l'ai donnée à maman et elle lui a donné à manger§
+1	roḥt	roḥt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=224091|AlignEnd=224873|GE=[aller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=aller|nWord=1|RX=[AUX]
+2	ʾiddit	ʾiddit	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=224873|AlignEnd=225264|GE=[donner].[Aspect=Perf$Number=Sing$Person=1]|Gloss=donner|nWord=2|RX=[VERB]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=225264|AlignEnd=225655|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+4	li=	li=	ADP	_	_	_	_	_	AlignBegin=225655|AlignEnd=226046|GE=à|Gloss=à|nWord=3|RX=[ADP]
+5	māmā	māmā	NOUN	_	Foreign=Yes	4	comp:obj	_	AlignBegin=226046|AlignEnd=226437|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=3|RX=[NOUN]
+6	sāʿit	sāʿit	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	_	_	_	AlignBegin=226437|AlignEnd=226829|GE=[heure].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=heure|nWord=4|RX=[NOUN]
+7	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=226829|AlignEnd=227220|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=4|RX=[PRON]
+8	w=	w=	CCONJ	_	_	9	cc	_	AlignBegin=227220|AlignEnd=228097|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+9	ʾaʿadit	ʾaʿadit	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=228097|AlignEnd=228974|GE=[s'asseoir].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=s'asseoir|nWord=5|RX=[AUX]
+10	tiʾakkil	tiʾakkil	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=228974|AlignEnd=229852|GE=[faire_manger].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=faire_manger|nWord=6|RX=[VERB]
+11	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=229852|AlignEnd=230729|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=6|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_72-72
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 230729, 236038
+# phonetic_text = w= w=baʿdin ʾaʿadt ʾaboṣṣ ʿali= =ha kida w= hiyya ʿammala tākol w= mabsūṭa giddan bi= =ha
+# text = wbaʿdin ʾaʿadt ʾaboṣṣ ʿalīha kida whiyya ʿammala tākol wmabsūṭa giddan bīha
+# text_fr =  et puis je n'arrêtais pas de la regarder pendant qu'elle mangeait§ j'étais très contente d'elle§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=230729|AlignEnd=230971|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	baʿdin	baʿdin	ADV	_	_	_	_	_	AlignBegin=230971|AlignEnd=231212|GE=après_ça|Gloss=après_ça|nWord=1|RX=[ADV]
+3	ʾaʿadt	ʾaʿadt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=231212|AlignEnd=231695|GE=[rester].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rester|nWord=2|RX=[AUX]
+4	ʾaboṣṣ	ʾaboṣṣ	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=231695|AlignEnd=232178|GE=[regarder].[Aspect=Imp$Number=Sing$Person=1]|Gloss=regarder|nWord=3|RX=[VERB]
+5	ʿali=	li=	ADP	_	_	_	_	_	AlignBegin=232178|AlignEnd=232420|GE=sur|Gloss=sur|nWord=4|RX=[ADP]
+6	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=232420|AlignEnd=232661|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=4|RX=[PRON]
+7	kida	kida	INTJ	_	_	_	_	_	AlignBegin=232661|AlignEnd=233144|GE=comme_ça|Gloss=comme_ça|nWord=5|RX=[INTJ]
+8	w=	w=	CCONJ	_	_	9	cc	_	AlignBegin=233144|AlignEnd=233386|GE=et|Gloss=et|nWord=6|RX=[CCONJ]
+9	hiyya	hiyya	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=233386|AlignEnd=233627|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|nWord=6|RX=[PRON]
+10	ʿammala	ʿammala	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=233627|AlignEnd=234110|GE=[fair].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=fair|nWord=7|RX=[NOUN]
+11	tākol	tākol	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=234110|AlignEnd=234593|GE=[manger].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=manger|nWord=8|RX=[VERB]
+12	w=	w=	CCONJ	_	_	13	cc	_	AlignBegin=234593|AlignEnd=234835|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+13	mabsūṭa	mabsūṭa	ADJ	_	Definite=Ind|Gender=Fem|Number=Sin	_	_	_	AlignBegin=234835|AlignEnd=235076|GE=[content].[Definite=Ind$Gender=Fem$Number=Sin]|Gloss=content|nWord=9|RX=[ADJ]
+14	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=235076|AlignEnd=235559|GE=très|Gloss=très|nWord=10|RX=[ADV]
+15	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=235559|AlignEnd=235799|GE=par|Gloss=par|nWord=11|RX=[ADP]
+16	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=235799|AlignEnd=236038|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=11|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_73-73
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 236038, 242944
+# phonetic_text = fa ʾanā kont ḫalāṣ ʾillī howwa ʾanā faṣalt min el= el=taʿab w= ʾillī howwa sahrāna liḥadd el= ṣobḥ mistanniyya tiftaḥ ʿinī =ha fa
+# text = fa ʾanā kont ḫalāṣ ʾillī howwa ʾanā faṣalt min ettaʿab wʾillī howwa sahrāna liḥadd eṣṣobḥ mistanniyya tiftaḥ ʿinīha fa
+# text_fr =  j'étais déjà épuisée parce que j'étais debout jusqu'au matin en attendant qu'elle ouvre les yeux§ et alors
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=236038|AlignEnd=236401|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=236401|AlignEnd=236764|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=2|RX=[PRON]
+3	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=236764|AlignEnd=237127|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=3|RX=[VERB]
+4	ḫalāṣ	ḫalāṣ	ADV	_	_	_	_	_	AlignBegin=237127|AlignEnd=237490|GE=déjà|Gloss=déjà|nWord=4|RX=[ADV]
+5	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=237490|AlignEnd=237853|GE=[PronType=Rel]|nWord=5|RX=[PRON]
+6	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=237853|AlignEnd=238216|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=6|RX=[PRON]
+7	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=238216|AlignEnd=238579|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=7|RX=[PRON]
+8	faṣalt	faṣalt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=238579|AlignEnd=238942|GE=[s'épuiser].[Aspect=Perf$Number=Sing$Person=1]|Gloss=s'épuiser|nWord=8|RX=[VERB]
+9	min	min	ADP	_	_	_	_	_	AlignBegin=238942|AlignEnd=239305|GE=de|Gloss=de|nWord=9|RX=[ADP]
+10	el=	el=	DET	_	Definite=Def	11	det	_	AlignBegin=239305|AlignEnd=239487|GE=[Definite=Def]|Gloss=Definiteness|nWord=10|RX=[DET]
+11	taʿab	taʿab	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=239487|AlignEnd=239668|GE=[fatigue].[Gender=Masc$Number=Sing]|Gloss=fatigue|nWord=10|RX=[NOUN]
+12	w=	w=	CCONJ	_	_	13	cc	_	AlignBegin=239668|AlignEnd=239850|GE=et|Gloss=et|nWord=11|RX=[CCONJ]
+13	ʾillī	ʾillī	PRON	_	PronType=Rel	_	_	_	AlignBegin=239850|AlignEnd=240031|GE=[PronType=Rel]|nWord=11|RX=[PRON]
+14	howwa	howwa	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=240031|AlignEnd=240394|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=12|RX=[PRON]
+15	sahrāna	sahrāna	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=240394|AlignEnd=240757|GE=[éveillé].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=éveillé|nWord=13|RX=[NOUN]
+16	liḥadd	liḥadd	ADV	_	_	_	_	_	AlignBegin=240757|AlignEnd=241120|GE=jusqu'à|Gloss=jusqu'à|nWord=14|RX=[ADV]
+17	el=	el=	DET	_	Definite=Def	18	det	_	AlignBegin=241120|AlignEnd=241302|GE=[Definite=Def]|Gloss=Definiteness|nWord=15|RX=[DET]
+18	ṣobḥ	ṣobḥ	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=241302|AlignEnd=241483|GE=[matin].[Gender=Masc$Number=Sing]|Gloss=matin|nWord=15|RX=[NOUN]
+19	mistanniyya	mistanniyya	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=241483|AlignEnd=241846|GE=[attendre].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=attendre|nWord=16|RX=[NOUN]
+20	tiftaḥ	tiftaḥ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=241846|AlignEnd=242209|GE=[ouvrir].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=ouvrir|nWord=17|RX=[VERB]
+21	ʿinī	ʿinī	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	_	_	_	AlignBegin=242209|AlignEnd=242391|GE=[œil].[Definite=Cons$Gender=Masc$Number=Plur]|Gloss=œil|nWord=18|RX=[NOUN]
+22	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=242391|AlignEnd=242572|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=18|RX=[PRON]
+23	fa	fa	CCONJ	_	_	_	_	_	AlignBegin=242572|AlignEnd=242944|GE=alors|Gloss=alors|nWord=19|RX=[CCONJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_74-74
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 242944, 244906
+# phonetic_text = kont ḫalāṣ faṣalt
+# text = kont ḫalāṣ faṣalt
+# text_fr =  j'étais déjà épuisée§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=242944|AlignEnd=243598|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	ḫalāṣ	ḫalāṣ	ADV	_	_	_	_	_	AlignBegin=243598|AlignEnd=244252|GE=déjà|Gloss=déjà|nWord=2|RX=[ADV]
+3	faṣalt	faṣalt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=244252|AlignEnd=244906|GE=[s'épuiser].[Aspect=Perf$Number=Sing$Person=1]|Gloss=s'épuiser|nWord=3|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_75-75
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 244906, 250237
+# phonetic_text = fa waʾt =ha roḥt ʾolt li= li=māmā ʾanā tiʿbit ḫalāṣ w= ha= ʾanām
+# text = fa waʾtaha roḥt ʾolt limāmā ʾanā tiʿbit ḫalāṣ whaʾanām
+# text_fr =  j'ai dit à maman que je suis fatiguée et je vais aller dormir§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=244906|AlignEnd=245498|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=245498|AlignEnd=245794|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=2|RX=[NOUN]
+3	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=245794|AlignEnd=246090|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+4	roḥt	roḥt	AUX	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=246090|AlignEnd=246682|GE=[aller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=aller|nWord=3|RX=[AUX]
+5	ʾolt	ʾolt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=246682|AlignEnd=247274|GE=[dire].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dire|nWord=4|RX=[VERB]
+6	li=	li=	ADP	_	_	_	_	_	AlignBegin=247274|AlignEnd=247570|GE=à|Gloss=à|nWord=5|RX=[ADP]
+7	māmā	māmā	NOUN	_	Foreign=Yes	6	comp:obj	_	AlignBegin=247570|AlignEnd=247866|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=5|RX=[NOUN]
+8	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=247866|AlignEnd=248458|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=6|RX=[PRON]
+9	tiʿbit	tiʿbit	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=248458|AlignEnd=249050|GE=[se_fatiguer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=se_fatiguer|nWord=7|RX=[VERB]
+10	ḫalāṣ	ḫalāṣ	ADV	_	_	_	_	_	AlignBegin=249050|AlignEnd=249642|GE=déjà|Gloss=déjà|nWord=8|RX=[ADV]
+11	w=	w=	CCONJ	_	_	12	cc	_	AlignBegin=249642|AlignEnd=249840|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+12	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=249840|AlignEnd=250038|GE=[Tense=Fut]|nWord=9|RX=[AUX]
+13	ʾanām	ʾanām	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=250038|AlignEnd=250237|GE=[dormir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=dormir|nWord=9|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_76-76
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 250237, 252220
+# phonetic_text = waʾt =ha nimt
+# text = waʾtaha nimt
+# text_fr =  à ce moment, j'ai dormi§
+1	waʾt	waʾt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=250237|AlignEnd=250733|GE=[temps].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=temps|nWord=1|RX=[NOUN]
+2	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=250733|AlignEnd=251229|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=1|RX=[PRON]
+3	nimt	nimt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=251229|AlignEnd=252220|GE=[dormir].[Aspect=Perf$Number=Sing$Person=1]|Gloss=dormir|nWord=2|RX=[VERB]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_77-77
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 252220, 255734
+# phonetic_text = siḥīt tānī yūm ʾāl yalla bi= bi==na ʿalašān ha= nimšī kida nirawwaḥ el= bit
+# text = siḥīt tānī yūm ʾāl yalla bīna ʿašān hanimšī kida nirawwaḥ elbit
+# text_fr =  le lendemain, je me suis réveillée§ on a dit : allons-y, on rentre à la maison§
+1	siḥīt	siḥīt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=252220|AlignEnd=252539|GE=[se_réveiller].[Aspect=Perf$Number=Sing$Person=1]|Gloss=se_réveiller|nWord=1|RX=[VERB]
+2	tānī	tānī	ADJ	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=252539|AlignEnd=252858|GE=[suivant].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=suivant|nWord=2|RX=[ADJ]
+3	yūm	yūm	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=252858|AlignEnd=253177|GE=[jour].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=jour|nWord=3|RX=[NOUN]
+4	ʾāl	ʾāl	VERB	_	Aspect=Perf.Gender=Masc.Number=Sing.Person=3|Number=Sing	_	_	_	AlignBegin=253177|AlignEnd=253496|GE=[Aspect=Perf].[Gender=Masc].[Number=Sing].[Person=3]|nWord=4|RX=[VERB]
+5	yalla	yalla	INTJ	_	_	_	_	_	AlignBegin=253496|AlignEnd=253815|GE=allons-y|Gloss=allons-y|nWord=5|RX=[INTJ]
+6	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=253815|AlignEnd=253975|GE=par|Gloss=par|nWord=6|RX=[ADP]
+7	=na	=na	PRON	_	Number=Plur|Person=1|PronType=Prs	6	comp:obj	_	AlignBegin=253975|AlignEnd=254134|GE=[Number=Plur$Person=1$PronType=Prs]|Gloss=notre-nous|nWord=6|RX=[PRON]
+8	ʿalašān	ʿalašān	ADP	_	_	_	_	_	AlignBegin=254134|AlignEnd=254453|GE=pour|Gloss=pour|nWord=7|RX=[ADP]
+9	ha=	ha=	AUX	_	Tense=Fut	_	_	_	AlignBegin=254453|AlignEnd=254613|GE=[Tense=Fut]|nWord=8|RX=[AUX]
+10	nimšī	nimšī	VERB	_	Aspect=Imp|Number=Plur|Person=1	_	_	_	AlignBegin=254613|AlignEnd=254772|GE=[partir].[Aspect=Imp$Number=Plur$Person=1]|Gloss=partir|nWord=8|RX=[VERB]
+11	kida	kida	INTJ	_	_	_	_	_	AlignBegin=254772|AlignEnd=255091|GE=comme_ça|Gloss=comme_ça|nWord=9|RX=[INTJ]
+12	nirawwaḥ	nirawwaḥ	VERB	_	Aspect=Imp|Number=Plur|Person=1	_	_	_	AlignBegin=255091|AlignEnd=255410|GE=[rentrer].[Aspect=Imp$Number=Plur$Person=1]|Gloss=rentrer|nWord=10|RX=[VERB]
+13	el=	el=	DET	_	Definite=Def	14	det	_	AlignBegin=255410|AlignEnd=255572|GE=[Definite=Def]|Gloss=Definiteness|nWord=11|RX=[DET]
+14	bit	bit	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=255572|AlignEnd=255734|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=11|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_78-78
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 255734, 258486
+# phonetic_text = rawaḥt el= el=bit ṭabʿan
+# text = rawaḥt elbit ṭabʿan
+# text_fr =  je suis rentrée à la maison§ alors
+1	rawaḥt	rawaḥt	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=255734|AlignEnd=256651|GE=[rentrer].[Aspect=Perf$Number=Sing$Person=1]|Gloss=rentrer|nWord=1|RX=[VERB]
+2	el=	el=	DET	_	Definite=Def	3	det	_	AlignBegin=256651|AlignEnd=257109|GE=[Definite=Def]|Gloss=Definiteness|nWord=2|RX=[DET]
+3	bit	bit	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=257109|AlignEnd=257568|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=2|RX=[NOUN]
+4	ṭabʿan	ṭabʿan	ADV	_	_	_	_	_	AlignBegin=257568|AlignEnd=258486|GE=bien_sûr|Gloss=bien_sûr|nWord=3|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_79-79
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 258486, 260596
+# phonetic_text = el= el=ʿīla kolla =ha kānit fī el= bit baʾa
+# text = elʿīla kollaha kānit fī elbit baʾa
+# text_fr =  toute la famille était à la maison§
+1	el=	el=	DET	_	Definite=Def	2	det	_	AlignBegin=258486|AlignEnd=258662|GE=[Definite=Def]|Gloss=Definiteness|nWord=1|RX=[DET]
+2	ʿīla	ʿīla	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=258662|AlignEnd=258838|GE=[famille].[Gender=Masc$Number=Sing]|Gloss=famille|nWord=1|RX=[NOUN]
+3	kolla	kolla	DET	_	_	_	_	_	AlignBegin=258838|AlignEnd=259014|GE=tout|Gloss=tout|nWord=2|RX=[DET]
+4	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=259014|AlignEnd=259190|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+5	kānit	kānit	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=259190|AlignEnd=259542|GE=[être].[Aspect=Perf$Gender=Fem$Number=Sing$Person=3]|Gloss=être|nWord=3|RX=[VERB]
+6	fī	fī	ADP	_	_	_	_	_	AlignBegin=259542|AlignEnd=259894|GE=dans|Gloss=dans|nWord=4|RX=[ADP]
+7	el=	el=	DET	_	Definite=Def	8	det	_	AlignBegin=259894|AlignEnd=260070|GE=[Definite=Def]|Gloss=Definiteness|nWord=5|RX=[DET]
+8	bit	bit	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=260070|AlignEnd=260246|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=5|RX=[NOUN]
+9	baʾa	baʾa	ADV	_	_	_	_	_	AlignBegin=260246|AlignEnd=260596|GE=donc|Gloss=donc|nWord=6|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_80-80
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 260596, 265314
+# phonetic_text = el= el=ʿayyil el= ṣoġayyar ṭabʿan ʾaṣġar ʿayyil fī el= ʿīla yaʿnī nawwar el= bit
+# text = elʿayyil eṣṣoġayyar ṭabʿan ʾaṣġar ʿayyil fī elʿīla yaʿnī nawwar elbit
+# text_fr =  le petit bébé, alors le plus petit enfant de la famille a allumé la maison§
+1	el=	el=	DET	_	Definite=Def	2	det	_	AlignBegin=260596|AlignEnd=260832|GE=[Definite=Def]|Gloss=Definiteness|nWord=1|RX=[DET]
+2	ʿayyil	ʿayyil	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=260832|AlignEnd=261068|GE=[enfant].[Gender=Masc$Number=Sing]|Gloss=enfant|nWord=1|RX=[NOUN]
+3	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=261068|AlignEnd=261304|GE=[Definite=Def]|Gloss=Definiteness|nWord=2|RX=[DET]
+4	ṣoġayyar	ṣoġayyar	ADJ	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=261304|AlignEnd=261540|GE=[petit].[Gender=Masc$Number=Sing]|Gloss=petit|nWord=2|RX=[ADJ]
+5	ṭabʿan	ṭabʿan	ADV	_	_	_	_	_	AlignBegin=261540|AlignEnd=262012|GE=bien_sûr|Gloss=bien_sûr|nWord=3|RX=[ADV]
+6	ʾaṣġar	ʾaṣġar	ADJ	_	Degree=Sup	_	_	_	AlignBegin=262012|AlignEnd=262484|GE=[petit].[Degree=Sup]|Gloss=petit|nWord=4|RX=[ADJ]
+7	ʿayyil	ʿayyil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=262484|AlignEnd=262956|GE=[enfant].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=enfant|nWord=5|RX=[NOUN]
+8	fī	fī	ADP	_	_	_	_	_	AlignBegin=262956|AlignEnd=263428|GE=dans|Gloss=dans|nWord=6|RX=[ADP]
+9	el=	el=	DET	_	Definite=Def	10	det	_	AlignBegin=263428|AlignEnd=263664|GE=[Definite=Def]|Gloss=Definiteness|nWord=7|RX=[DET]
+10	ʿīla	ʿīla	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=263664|AlignEnd=263900|GE=[famille].[Gender=Masc$Number=Sing]|Gloss=famille|nWord=7|RX=[NOUN]
+11	yaʿnī	yaʿnī	ADV	_	_	_	_	_	AlignBegin=263900|AlignEnd=264372|GE=alors|Gloss=alors|nWord=8|RX=[ADV]
+12	nawwar	nawwar	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=264372|AlignEnd=264844|GE=[allumer].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=allumer|nWord=9|RX=[VERB]
+13	el=	el=	DET	_	Definite=Def	14	det	_	AlignBegin=264844|AlignEnd=265079|GE=[Definite=Def]|Gloss=Definiteness|nWord=10|RX=[DET]
+14	bit	bit	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=265079|AlignEnd=265314|GE=[maison].[Gender=Masc$Number=Sing]|Gloss=maison|nWord=10|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_81-81
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 265314, 267325
+# phonetic_text = w= w=gih w= kida
+# text = wgih wkida
+# text_fr =  il vient alors§
+1	w=	w=	CCONJ	_	_	2	cc	_	AlignBegin=265314|AlignEnd=265817|GE=et|Gloss=et|nWord=1|RX=[CCONJ]
+2	gih	gih	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=265817|AlignEnd=266320|GE=[venir].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=venir|nWord=1|RX=[VERB]
+3	w=	w=	CCONJ	_	_	4	cc	_	AlignBegin=266320|AlignEnd=266822|GE=et|Gloss=et|nWord=2|RX=[CCONJ]
+4	kida	kida	INTJ	_	_	_	_	_	AlignBegin=266822|AlignEnd=267325|GE=comme_ça|Gloss=comme_ça|nWord=2|RX=[INTJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_82-82
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 267325, 270624
+# phonetic_text = fa kont mohtammiya bi= bi==ha giddan yaʿnī
+# text = fa kont mohtammiya bīha giddan yaʿnī
+# text_fr =  je me suis très bien occupée d'elle§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=267325|AlignEnd=267875|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=267875|AlignEnd=268425|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=2|RX=[VERB]
+3	mohtammiya	mohtammiya	ADJ	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=268425|AlignEnd=268975|GE=[occupé].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=occupé|nWord=3|RX=[ADJ]
+4	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=268975|AlignEnd=269250|GE=par|Gloss=par|nWord=4|RX=[ADP]
+5	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=269250|AlignEnd=269525|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=4|RX=[PRON]
+6	giddan	giddan	ADV	_	_	_	_	_	AlignBegin=269525|AlignEnd=270075|GE=très|Gloss=très|nWord=5|RX=[ADV]
+7	yaʿnī	yaʿnī	ADV	_	_	_	_	_	AlignBegin=270075|AlignEnd=270624|GE=alors|Gloss=alors|nWord=6|RX=[ADV]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_83-83
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 270624, 272491
+# phonetic_text = kont b= b=ʾaʿtibir =ha bint =ī el= ṣoġayyara
+# text = kont baʿtibirha bintī eṣṣoġayyara
+# text_fr =  je la considérais comme ma petite fille§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=270624|AlignEnd=271091|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=271091|AlignEnd=271247|GE=[Mood=Ind]|nWord=2|RX=[AUX]
+3	ʾaʿtibir	ʾaʿtibir	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=271247|AlignEnd=271403|GE=[considérer].[Aspect=Imp$Number=Sing$Person=1]|Gloss=considérer|nWord=2|RX=[VERB]
+4	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=271403|AlignEnd=271558|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=2|RX=[PRON]
+5	bint	bint	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=271558|AlignEnd=271792|GE=[fille].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=fille|nWord=3|RX=[NOUN]
+6	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=271792|AlignEnd=272025|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=3|RX=[PRON]
+7	el=	el=	DET	_	Definite=Def	_	_	_	AlignBegin=272025|AlignEnd=272258|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+8	ṣoġayyara	ṣoġayyara	ADJ	_	Gender=Fem|Number=Sin	_	_	_	AlignBegin=272258|AlignEnd=272491|GE=[petit].[Gender=Fem$Number=Sin]|Gloss=petit|nWord=4|RX=[ADJ]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_84-85
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 272491, 278458
+# phonetic_text = kont ʾaḫallī māmā tinām w= w=ʾanā ʾaʿod sahrāna bi= =ha baʾa w= ʾaʿod ʾatsalla maʿā =ha w= ʾalʿab w= ʾahazzar maʿā =ha
+# text = kont ʾaḫallī māmā tinām wʾanā ʾaʿod sahrāna bīha baʾa wʾaʿod ʾatsalla maʿāha wʾalʿab wʾahazzar maʿāha
+# text_fr =  je faisais maman dormir et je veille alors tard avec elle, m'amuse avec elle et rigole avec elle§
+1	kont	kont	VERB	_	Aspect=Perf|Number=Sing|Person=1	_	_	_	AlignBegin=272491|AlignEnd=272955|GE=[être].[Aspect=Perf$Number=Sing$Person=1]|Gloss=être|nWord=1|RX=[VERB]
+2	ʾaḫallī	ʾaḫallī	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=272955|AlignEnd=273419|GE=[faire].[Aspect=Imp$Number=Sing$Person=1]|Gloss=faire|nWord=2|RX=[VERB]
+3	māmā	māmā	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=273419|AlignEnd=273883|GE=[maman].[Foreign=Yes]|Gloss=maman|nWord=3|RX=[NOUN]
+4	tinām	tinām	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=273883|AlignEnd=274348|GE=[dormir].[Aspect=Imp$Gender=Fem$Number=Sing$Person=3]|Gloss=dormir|nWord=4|RX=[VERB]
+5	w=	w=	CCONJ	_	_	6	cc	_	AlignBegin=274348|AlignEnd=274535|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+6	ʾanā	ʾanā	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=274535|AlignEnd=274722|GE=[Number=Sing$Person=1$PronType=Prs]|nWord=5|RX=[PRON]
+7	ʾaʿod	ʾaʿod	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=274722|AlignEnd=275096|GE=[rester].[Aspect=Imp$Number=Sing$Person=1]|Gloss=rester|nWord=6|RX=[VERB]
+8	sahrāna	sahrāna	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	AlignBegin=275096|AlignEnd=275470|GE=[éveillé].[Definite=Ind$Gender=Fem$Number=Sing$VerbForm=Part]|Gloss=éveillé|nWord=7|RX=[NOUN]
+9	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=275470|AlignEnd=275657|GE=par|Gloss=par|nWord=8|RX=[ADP]
+10	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	comp:obj	_	AlignBegin=275657|AlignEnd=275844|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=8|RX=[PRON]
+11	baʾa	baʾa	ADV	_	_	_	_	_	AlignBegin=275844|AlignEnd=276218|GE=donc|Gloss=donc|nWord=9|RX=[ADV]
+12	w=	w=	CCONJ	_	_	13	cc	_	AlignBegin=276218|AlignEnd=276405|GE=et|Gloss=et|nWord=10|RX=[CCONJ]
+13	ʾaʿod	ʾaʿod	AUX	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=276405|AlignEnd=276592|GE=[rester].[Aspect=Imp$Number=Sing$Person=1]|Gloss=rester|nWord=10|RX=[AUX]
+14	ʾatsalla	ʾatsalla	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=276592|AlignEnd=276966|GE=[s'amuser].[Aspect=Imp$Number=Sing$Person=1]|Gloss=s'amuser|nWord=11|RX=[VERB]
+15	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=276966|AlignEnd=277153|GE=avec|Gloss=avec|nWord=12|RX=[ADP]
+16	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=277153|AlignEnd=277340|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=12|RX=[PRON]
+17	w=	w=	CCONJ	_	_	18	cc	_	AlignBegin=277340|AlignEnd=277527|GE=et|Gloss=et|nWord=13|RX=[CCONJ]
+18	ʾalʿab	ʾalʿab	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=277527|AlignEnd=277714|GE=[jour].[Aspect=Imp$Number=Sing$Person=1]|Gloss=jour|nWord=13|RX=[VERB]
+19	w=	w=	CCONJ	_	_	20	cc	_	AlignBegin=277714|AlignEnd=277901|GE=et|Gloss=et|nWord=14|RX=[CCONJ]
+20	ʾahazzar	ʾahazzar	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=277901|AlignEnd=278088|GE=[rigoler].[Aspect=Imp$Number=Sing$Person=1]|Gloss=rigoler|nWord=14|RX=[VERB]
+21	maʿā	maʿā	ADP	_	_	_	_	_	AlignBegin=278088|AlignEnd=278273|GE=avec|Gloss=avec|nWord=15|RX=[ADP]
+22	=ha	=ha	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	comp:obj	_	AlignBegin=278273|AlignEnd=278458|GE=[Gender=Fem$Number=Sing$Person=3$PronType=Prs]|Gloss=sa-elle|nWord=15|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_86-87
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 278458, 286093
+# phonetic_text = fa yaʿnī dā bi= bi=el= nisbā =l =ī ʾaḥla ḥāga fī ḥayāt =ī w= ʾagmal mawqif bi= el= nisbā =l =ī
+# text = fa yaʿnī dā binnisbālī ʾaḥla ḥāga fī ḥayātī wʾagmal mawqif binnisbālī
+# text_fr =  ça pour moi la plus belle chose de ma vie et la plus belle situation pour moi§
+1	fa	fa	CCONJ	_	_	2	cc	_	AlignBegin=278458|AlignEnd=279327|GE=alors|Gloss=alors|nWord=1|RX=[CCONJ]
+2	yaʿnī	yaʿnī	ADV	_	_	_	_	_	AlignBegin=279327|AlignEnd=280196|GE=alors|Gloss=alors|nWord=2|RX=[ADV]
+3	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=280196|AlignEnd=281065|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=3|RX=[DET]
+4	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=281065|AlignEnd=281239|GE=par|Gloss=par|nWord=4|RX=[ADP]
+5	el=	el=	DET	_	Definite=Def	6	det	_	AlignBegin=281239|AlignEnd=281413|GE=[Definite=Def]|Gloss=Definiteness|nWord=4|RX=[DET]
+6	nisbā	nisbā	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=281413|AlignEnd=281587|GE=[rapport].[Gender=Fem$Number=Sing]|Gloss=rapport|nWord=4|RX=[NOUN]
+7	=l	=l	ADP	_	_	_	_	_	AlignBegin=281587|AlignEnd=281761|GE=à|Gloss=à|nWord=4|RX=[ADP]
+8	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	7	comp:obj	_	AlignBegin=281761|AlignEnd=281933|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=4|RX=[PRON]
+9	ʾaḥla	ʾaḥla	ADJ	_	Degree=Sup	_	_	_	AlignBegin=281933|AlignEnd=282527|GE=[doux].[Degree=Sup]|Gloss=doux|nWord=5|RX=[ADJ]
+10	ḥāga	ḥāga	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=282527|AlignEnd=283121|GE=[chose].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=chose|nWord=6|RX=[NOUN]
+11	fī	fī	ADP	_	_	_	_	_	AlignBegin=283121|AlignEnd=283715|GE=dans|Gloss=dans|nWord=7|RX=[ADP]
+12	ḥayāt	ḥayāt	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=283715|AlignEnd=284012|GE=[vie].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=vie|nWord=8|RX=[NOUN]
+13	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=284012|AlignEnd=284309|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=8|RX=[PRON]
+14	w=	w=	CCONJ	_	_	15	cc	_	AlignBegin=284309|AlignEnd=284606|GE=et|Gloss=et|nWord=9|RX=[CCONJ]
+15	ʾagmal	ʾagmal	ADJ	_	Degree=Sup	_	_	_	AlignBegin=284606|AlignEnd=284903|GE=[beau].[Degree=Sup]|Gloss=beau|nWord=9|RX=[ADJ]
+16	mawqif	mawqif	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=284903|AlignEnd=285497|GE=[situation].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=situation|nWord=10|RX=[NOUN]
+17	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=285497|AlignEnd=285616|GE=par|Gloss=par|nWord=11|RX=[ADP]
+18	el=	el=	DET	_	Definite=Def	19	det	_	AlignBegin=285616|AlignEnd=285735|GE=[Definite=Def]|Gloss=Definiteness|nWord=11|RX=[DET]
+19	nisbā	nisbā	NOUN	_	Gender=Fem|Number=Sing	17	comp:obj	_	AlignBegin=285735|AlignEnd=285854|GE=[rapport].[Gender=Fem$Number=Sing]|Gloss=rapport|nWord=11|RX=[NOUN]
+20	=l	=l	ADP	_	_	_	_	_	AlignBegin=285854|AlignEnd=285973|GE=à|Gloss=à|nWord=11|RX=[ADP]
+21	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	20	comp:obj	_	AlignBegin=285973|AlignEnd=286093|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=11|RX=[PRON]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_88-88
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 286093, 291093
+# phonetic_text = b= b=ʾaḥiss ʾin el= yūm dā ʾimbāriḥ miš ʿadda ʿali= =h sabaʿ sinīn
+# text = bʾaḥiss ʾin elyūm dā ʾimbāriḥ miš ʿadda ʿalīh sabaʿ sinīn
+# text_fr =  j'ai l'impression que c'était hier et ce n'était pas il y a sept ans§
+1	b=	b=	AUX	_	Mood=Ind	_	_	_	AlignBegin=286093|AlignEnd=286343|GE=[Mood=Ind]|nWord=1|RX=[AUX]
+2	ʾaḥiss	ʾaḥiss	VERB	_	Aspect=Imp|Number=Sing|Person=1	_	_	_	AlignBegin=286343|AlignEnd=286593|GE=[sentir].[Aspect=Imp$Number=Sing$Person=1]|Gloss=sentir|nWord=1|RX=[VERB]
+3	ʾin	ʾin	SCONJ	_	_	_	_	_	AlignBegin=286593|AlignEnd=287093|GE=[COMP]|Gloss=que|nWord=2|RX=[SCONJ]
+4	el=	el=	DET	_	Definite=Def	5	det	_	AlignBegin=287093|AlignEnd=287343|GE=[Definite=Def]|Gloss=Definiteness|nWord=3|RX=[DET]
+5	yūm	yūm	NOUN	_	Gender=Masc|Number=Sing	_	_	_	AlignBegin=287343|AlignEnd=287593|GE=[jour].[Gender=Masc$Number=Sing]|Gloss=jour|nWord=3|RX=[NOUN]
+6	dā	dā	DET	_	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	AlignBegin=287593|AlignEnd=288093|GE=[Gender=Masc$Number=Sing$PronType=Dem]|nWord=4|RX=[DET]
+7	ʾimbāriḥ	ʾimbāriḥ	ADV	_	_	_	_	_	AlignBegin=288093|AlignEnd=288593|GE=hier|Gloss=hier|nWord=5|RX=[ADV]
+8	miš	miš	PART	_	Polarity=Neg	_	_	_	AlignBegin=288593|AlignEnd=289093|GE=[Polarity=Neg]|Gloss=NEG|nWord=6|RX=[PART]
+9	ʿadda	ʿadda	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=289093|AlignEnd=289593|GE=[passer].[Aspect=Perf$Gender=Masc$Number=Sing$Person=3]|Gloss=passer|nWord=7|RX=[VERB]
+10	ʿali=	li=	ADP	_	_	_	_	_	AlignBegin=289593|AlignEnd=289843|GE=sur|Gloss=sur|nWord=8|RX=[ADP]
+11	=h	=h	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=289843|AlignEnd=290093|GE=[Gender=Masc$Number=Sing$Person=3$PronType=Prs]|nWord=8|RX=[PRON]
+12	sabaʿ	sabaʿ	NUM	_	Definite=Cons|Gender=Masc|Number=Sing	_	_	_	AlignBegin=290093|AlignEnd=290593|GE=[sept].[Definite=Cons$Gender=Masc$Number=Sing]|Gloss=sept|nWord=9|RX=[NUM]
+13	sinīn	sinīn	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	_	_	_	AlignBegin=290593|AlignEnd=291093|GE=[année].[Definite=Ind$Gender=Fem$Number=Plur]|Gloss=année|nWord=10|RX=[NOUN]
+
+# sent_id = ARZ_MG_NARR_03_NAJ_89-89
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_03_NAJ.WAV
+# sent_timecode = 291093, 295839
+# phonetic_text = yūm bi= bi=ṣarāḥa fī zākirt =ī w= mostaḥīl yitmisiḥ
+# text = yūm biṣarāḥa fī zākirtī wmostaḥīl yitmisiḥ
+# text_fr =  franchement, un jour dans ma mémoire et impossible à effacer§
+1	yūm	yūm	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=291093|AlignEnd=291884|GE=[jour].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=jour|nWord=1|RX=[NOUN]
+2	bi=	bi=	ADP	_	_	_	_	_	AlignBegin=291884|AlignEnd=292280|GE=par|Gloss=par|nWord=2|RX=[ADP]
+3	ṣarāḥa	ṣarāḥa	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=292280|AlignEnd=292675|GE=[franchise].[Definite=Ind$Gender=Fem$Number=Sing]|Gloss=franchise|nWord=2|RX=[NOUN]
+4	fī	fī	ADP	_	_	_	_	_	AlignBegin=292675|AlignEnd=293466|GE=dans|Gloss=dans|nWord=3|RX=[ADP]
+5	zākirt	zākirt	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=293466|AlignEnd=293862|GE=[mémoire].[Definite=Cons$Gender=Fem$Number=Sing]|Gloss=mémoire|nWord=4|RX=[NOUN]
+6	=ī	=ī	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=293862|AlignEnd=294257|GE=[Number=Sing$Person=1$PronType=Prs]|Gloss=mon|nWord=4|RX=[PRON]
+7	w=	w=	CCONJ	_	_	8	cc	_	AlignBegin=294257|AlignEnd=294653|GE=et|Gloss=et|nWord=5|RX=[CCONJ]
+8	mostaḥīl	mostaḥīl	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	_	_	_	AlignBegin=294653|AlignEnd=295048|GE=[imposible].[Definite=Ind$Gender=Masc$Number=Sing]|Gloss=imposible|nWord=5|RX=[ADJ]
+9	yitmisiḥ	yitmisiḥ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=295048|AlignEnd=295839|GE=[effacer].[Aspect=Imp$Gender=Masc$Number=Sing$Person=3]|Gloss=effacer|nWord=6|RX=[VERB]
+
