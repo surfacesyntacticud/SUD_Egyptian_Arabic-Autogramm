@@ -1,6 +1,6 @@
 # sent_id = ARZ_MG_NARR_01_HAK_01-01
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 0, 2796
 # phonetic_text = ʾanā ha= ha=ʾatkallim ʿan nafs =ī šwayya ʾanā w= ṣoġayyara
 # text = ʾanā hatkallim ʿan nafsī šwayya ʾanā wṣoġayyara
@@ -18,7 +18,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_02-02
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 2819, 6098
 # phonetic_text = ʾanā w= w=ṣoġayyara ma= kont =š mohtamma ʾawī bi= fīkrit el= taʿlīm
 # text = ʾanā wṣoġayyara makontš mohtamma ʾawī bifīkrit eltaʿlīm
@@ -38,7 +38,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_03-03
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 6098, 8976
 # phonetic_text = kont ʿawza ʾaʿīš ḥayāt =ī =ībi= rāḥt =ī w= zayy ma= ʾanā ʿawza
 # text = kont ʿawza ʾaʿīš ḥayātī birāḥtī w zayy manā ʿawza
@@ -59,7 +59,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_04-06
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 8976, 13116
 # phonetic_text = ʾalʿab w= w=ʾasmaʿ mosalsalāt w= ʾanām bi= rāht =ī
 # text = ʾalʿab wasmaʿ mosalsalāt wanām birāhtī
@@ -76,7 +76,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_07-07
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 13127, 15000
 # phonetic_text = ʾatfassah w= w=ʾaḥrog w= ʾasāfīr
 # text = ʾatfassah waḥrog wasāfīr
@@ -89,7 +89,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_08-10
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 15000, 19232
 # phonetic_text = ʾaʾʿod ʿalā el= el=fecebūk ʾaʾʿod ʿalā el= combiyūtar ʾaʿīš zayy ma= ʾanā ʿāyza
 # text = ʾaʾʿod ʿalfecebūk ʾaʾʿod ʿalcombiyūtar ʾaʿīš zayy manā ʿāyza
@@ -110,7 +110,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_11-13
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 19250, 28848
 # phonetic_text = w= w=kānit ḥanʾā =nī fīkrit ʾin ʾanā ʾanām badrī ʿalašān ʾaṣḥā badrī w= ʾarūḥ el= madrasa ʾaʾḍḍī yūm ṭawīl ʿalašān ʾargaʿ kamān ʾazakir lissa ha= ʾargaʿ ʾazakir
 # text = wkānit ḥanʾānī fīkrit ʾin ʾanā ʾanām badrī ʿašān ʾaṣḥā badrī warūḥ elmadrasa ʾaʾḍḍī yūm ṭawīl ʿašān ʾargaʿ kamān ʾazakir lissa hargaʿ ʾazakir
@@ -145,7 +145,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_14-14
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 28848, 30715
 # phonetic_text = dā ʾih el= el=ḥanʾa dī ya= rabb =ī līh kidā
 # text = dā ʾih elḥanʾa dī yarabbī līh kidā
@@ -163,7 +163,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_15-15
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 30720, 33284
 # phonetic_text = līh kidā ṭab ma= ma=ʾanā ʾāḫod ʾayy ḥāga sarīʿ sarīʿ kidā
 # text = līh kidā ṭab manā ʾāḫod ʾayy ḥāga sarīʿ sarīʿ kidā
@@ -182,7 +182,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_16-16
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 33284, 35976
 # phonetic_text = w= w=ʾaḫallaṣ taʿlīm w= ʾaʾʿod fī= el= bit bi= rāḥt =ī
 # text = waḫallaṣ taʿlīm waʾʿod fīlbit birāḥtī
@@ -201,7 +201,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_17-22
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 35976, 44412
 # phonetic_text = fa kont ʿāyza ʾaḫlaṣ ʿalā ʾayy waḍʿ bi= bi=ʾayy taʾdīr bi= ʾayy ṭarīʾa ʾayy ḥāga ʾayy mostawa taʿlīmī miš fārʾa
 # text = fa kont ʿāyza ʾaḫlaṣ ʿalā ʾayy waḍʿ biʾayy taʾdīr biʾayy ṭarīʾa ʾayy ḥāga ʾayy mostawa taʿlīmī miš fārʾa
@@ -229,7 +229,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_23-25
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 44412, 56750
 # phonetic_text = fa lḥamdolillah yaʿnī min karam rabbi =na =naʿalā =ya ʾin =oh ʾahl =ī min el= nās ʾillī mohtammīn giddān bi= el= taʿlīm w= ʾinn =hom kamān min el= nās ʾillī bi= yiṣaḥbū wilād =hom b= yiʿrafū yidʿamū =hom w= yišaggaʿū =hom w= yiwaṣṣalū =hom li= ʾillī hommā ʿayzīn =oh
 # text = falḥamdolillah yaʿnī min karam rabbina ʿalāya ʾinoh ʾahlī min ennās ʾillī mohtammīn giddān bittaʿlīm wʾinnohom kamān min ennās ʾillī biyiṣaḥbū wilādhom biyiʿrafū yidʿamūhom wyišaggaʿūhom wyiwaṣṣalūhom lillī hommā ʿayzīnoh
@@ -286,7 +286,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_26-26
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 56750, 61168
 # phonetic_text = w= w=euh bābā bābā moḥtawi =na giddān
 # text = w euh bābā bābā moḥtawina giddān
@@ -301,7 +301,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_27-29
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 61168, 68808
 # phonetic_text = fa ʿārif dā qawī fī= fī=ʾih w= dā ḍaʿīf fī= ʾih w= dā yinfaʿ fī= ʾih w= dī ma= tinfaʿ =š fī= ʾih fa kān ʿārif yinṣaḥ =na
 # text = fa ʿārif dā qawī fʾih wdā ḍaʿīf fʾih wdā yinfaʿ fʾih wdī matinfaʿš fʾih fa kān ʿārif yinṣaḥna
@@ -337,7 +337,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_30-30
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 68808, 70633
 # phonetic_text = w= w=howwa bi= gadd ʿirif yiwaṣṣil =na
 # text = whowwa bigadd ʿirif yiwaṣṣilna
@@ -352,7 +352,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_31-31
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 70639, 77180
 # phonetic_text = w= w=~ w= lḥamdolillah yaʿnī ʾanā ʾan nafs =ī lolā waʾfīt ʾahl =ī gamb =ī ma= kont =š wiṣilt li= ʾillī ʾanā fī =h dilwaʾtī
 # text = w ~ wlḥamdolillah yaʿnī ʾanā ʾan nafsī lolā waʾfīt ʾahlī gambī makontš wiṣilt lillī ʾanā fīh dilwaʾtī
@@ -385,7 +385,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_32-32
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 77180, 84953
 # phonetic_text = ma= ma=kān =š zamānī fī= ʾayy ~ kān zamānī fī= ʾayy ḥāga ḥallaṣt ʾayy ḥāga w= ʾāʿda fī= el= bit ma= kān =š zamānī fī= tālta gāmʿa
 # text = makānš zamānī fī ʾayy ~ kān zamānī fī ʾayy ḥāga ḥallaṣt ʾayy ḥāga wʾāʿda fīlbit makānš zamānī fī tālta gāmʿa
@@ -420,7 +420,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_33-35
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 84953, 92063
 # phonetic_text = fī= fī=el= kolliyya ʾillī ʾanā ḥābba =ha fī= l= qism ʾillī ʾanā b= ʾaḥibb =oh laʾin ʾanā kont ʿayilla ṭayša bi= koll maʿnā el= kilma
 # text = fīlkolliyya ʾillī ʾanā ḥābbāha fīlqism ʾillī ʾanā baḥibboh laʾin ʾanā kont ʿayilla ṭayša bikoll maʿnā elkilma
@@ -453,7 +453,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_36-36
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 92063, 94197
 # phonetic_text = kont ʿāyza ʾaḫallaṣ w= w=ḥalāṣ
 # text = kont ʿāyza ʾaḫallaṣ wḥalāṣ
@@ -466,7 +466,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_37-38
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 94197, 98406
 # phonetic_text = w= w=kān ʿand =ī taḫayyolāt ġarība giddān taḫayyolāt el= ṭofūla
 # text = wkān ʿandī taḫayyolāt ġarība giddān taḫayyolāt eṭṭofūla
@@ -484,7 +484,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_39-44
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 98406, 116470
 # phonetic_text = kont b= b=ʾatḥayyil masalan ʾin el= donya bitāʿit =na hiyya dī ʾillī ʾiḥnā ʾayšīn fī= =ha el euh el= makān ʾillī ʾiḥnā ʾayšīn fī= =h bass el= madīna bitāʿt =ī w= ʾinn =oh ma= fī= =š donya tānī ġir el= donya dī w= ma= fī= =š loġāt tanya ġir el= ʾingliš w= el= ʿarabī ʿalašān ʾiḥnā bi= naḫdū =hom fī= el= madrasa
 # text = kont batḥayyil masalan ʾin eddonya bitāʿitna hiyya dī ʾillī ʾiḥnā ʾayšīn fīha el euh elmakān ʾillī ʾiḥnā ʾayšīn fīh bass elmadīna bitāʿtī wʾinnoh mafīš donya tānī ġir eddonya dī wmafīš loġāt tanya ġir elʾingliš welʿarabī ʿašān ʾiḥnā binaḫdūhom fīelmadrasa
@@ -554,7 +554,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_45-45
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 116470, 120389
 # phonetic_text = fa ʾitfāgiʾt lamma ʿirift ʾin fī= fī=loġāt tanya
 # text = fatfāgiʾt lamma ʿirift ʾin fī loġāt tanya
@@ -570,7 +570,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_46-46
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 120389, 124191
 # phonetic_text = ʾanā ʾawwil marra ʿirift frinsi dā ʿirift =oh min bint ḫalt =ī =īw= bint ʿammit =ī
 # text = ʾanā ʾawwil marra ʿirift frinsi dā ʿiriftoh min bint ḫaltī w bint ʿammitī
@@ -594,7 +594,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_47-47
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 124191, 125627
 # phonetic_text = kont ʿand =hom =hom
 # text = kont ʿandohom
@@ -605,7 +605,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_48-49
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 125627, 134029
 # phonetic_text = kont ʿand waḥdā fī= fī==hom ʾaw kont ʿand =hom hommā el= ʾitnin bass miš fī= nafs el= waʾt ṭabʿan kont b= ʾarūḥ ʿand el= ʾitnin ʾaṣd =ī
 # text = kont ʿand waḥdā fīhom ʾaw kont ʿanodohom hommā elʾitnin bass miš fī nafs elwaʾt ṭabʿan kont barūḥ ʿand elʾitnin ʾaṣdī
@@ -640,7 +640,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_50-50
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 134058, 138959
 # phonetic_text = fa ~ smiʿt fī= fī=marra bint ʿammit =ī w= hiyya b= tinṭaʾ el= ḥorūf li= ʾawwil marra ʾoddām =ī
 # text = fa ~ smiʿt fmarra bint ʿammitī whiyya bitinṭaʾ elḥorūf liʾawwil marra ʾoddāmī
@@ -667,7 +667,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_51-51
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 138959, 144255
 # phonetic_text = euh fa ʾistaġrabt giddān ʾin fī= fī=loġa tanya bi= ṣarāḥa ġir el= ʾingliš w= el= ʿarabī
 # text = euh fastaġrabt giddān ʾin fī loġa tanya biṣarāḥa ġir elʾingliš welʿarabī
@@ -691,7 +691,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_52-52
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 144255, 147372
 # phonetic_text = ʾillī howwa ʾih dā ʾih ʾillī ʾintī b= b=tiʾūlī =h dā
 # text = ʾillī howwa ʾih dā ʾih ʾillī ʾintī bitiʾūlīh dā
@@ -710,7 +710,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_53-53
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 147377, 149453
 # phonetic_text = ʿagab =nī =nīgiddān noṭʾ ḥarf el= ʾāš
 # text = ʿagabnī giddān noṭʾ ḥarf elʾāš
@@ -725,7 +725,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_54-54
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 149453, 152290
 # phonetic_text = ʾāš fī= fī=ḥarf ʾism =oh ʾāš w= fḍilt ʾaḍḥak ʿali =h
 # text = ʾāš fī ḥarf ʾismoh ʾāš wfḍilt ʾaḍḥak ʿalih
@@ -744,7 +744,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_55-55
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 152290, 155500
 # phonetic_text = w= w=ʾigġīk ʾallāh dā šaklo =hom ḥilw ʾawī
 # text = wʾigġīk ʾallāh dā šaklohom ḥilw ʾawī
@@ -760,7 +760,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_56-56
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 155500, 159691
 # phonetic_text = ṭab ʾanā ʿāyza ʾatʿallim el= el=loġa dī ʾaʿmil ʾih yā dīnā kān ʾism =ha dīnā bint ʿammit =ī
 # text = ṭab ʾanā ʿāyza ʾatʿallim elloġa dī ʾaʿmil ʾih yā dīnā kān ʾismaha dīnā bint ʿammitī
@@ -786,7 +786,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_57-58
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 159691, 164453
 # phonetic_text = ʾālit =li=l =ī lāzim tišiddī ḥīl =ik w= tiwṣalī li= sanawī w= ha= titʿallimī =ha
 # text = ʾālitlī lāzim tišiddī ḥīlik wtiwṣalī lisanawī whatitʿallimīha
@@ -809,7 +809,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_59-62
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 164453, 174784
 # phonetic_text = fa min hinā badāʾt ʾaḥibb el= el=taʿlīm w= badāʾt ʾazākir w= ~ ʾahtamm ʾin =nī ʾadḫol sanawī ʿalašān ḥatir ʾatʿallim el= loġa el= gidīdā el= ḥilwa dī
 # text = fa min hinā badāʾt ʾaḥibb ettaʿlīm wbadāʾt ʾazākir w ~ ʾahtamm ʾinnī ʾadḫol sanawī ʿalašān ḥatir ʾatʿallim elloġa eggidīdā elḥilwa dī
@@ -844,7 +844,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_63-63
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 174784, 179261
 # phonetic_text = ʿallaʾū fī= fī=dimāġ =ī kām kilma min bint ḫalt =ī w= bint ʿammit =ī w= kām gomla ḥifīzt =hom
 # text = ʿallaʾū fī dimāġī kām kilma min bint ḫaltī w bint ʿammitī wkām gomla ḥifīztohom
@@ -871,7 +871,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_64-64
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 179261, 182377
 # phonetic_text = fa lamma roḥt el= el=sanawī min ḥosn el= ḥazz ʾitsaʾalt fī= el= ḥāgāt dī
 # text = fa lamma roḥt essanawī min ḥosn elḥazz ʾitsaʾalt fīelḥāgāt dī
@@ -893,7 +893,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_65-69
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 182377, 200627
 # phonetic_text = w= w=kānit mofāgʾa li= el= modārrisīn ʾin ʾanā lissa fī= sana ʾūla ʾūla sanawī w= ʾawwil kām ḥiṣṣa w= ʾanā ʾaʿraf el= maʿlūmāt dī koll =ha w= ʾin šāṭra w= b= ʾanṭaʾ kidā w= rāyḥa ḥāfza el= ḥorūf w= el= ʾarqām w= kalimāt kitīr w= ḥāgāt kitīr fa ~ fa laʾīt dāʿm min =hom bi= sabab ʾillī ʾanā fī= =h dā
 # text = wkānit mofāgʾa lilmodārrisīn ʾin ʾanā lissa fī sana ʾūla ʾūla sanawī wʾawwil kām ḥiṣṣa wanā ʾaʿraf elmaʿlūmāt dī kollaha wʾin šāṭra wbanṭaʾ kidā wrāyḥa ḥāfza elḥorūf welʾarqām wkalimāt kitīr wḥāgāt kitīr fa ~ fa laʾīt dāʿm minnohom bisabab ʾillī ʾanā fīh dā
@@ -962,7 +962,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_70-70
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 200627, 207802
 # phonetic_text = laʾit daʿm min =hom =homw= tašgīʿ w= ʾanā min el= nūʿ ʾillī euh law laʾit daʿm w= tašgīʿ fī= ḥāga moʿayyana ʾaḥibb ʾatmayyaz ʾawī fī= =ha
 # text = laʾit daʿm minnohom wtašgīʿ wanā min ennūʿ ʾill euh law laʾit daʿm wtašgīʿ fī ḥāga moʿayyana ʾaḥibb ʾatmayyaz ʾawī fīha
@@ -996,7 +996,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_71-71
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 207802, 211127
 # phonetic_text = ʾaḥibb ʾawṣal fī= fī==ha li= ʾaʿlā ma= yomkin
 # text = ʾaḥibb ʾawṣal fīha liʾaʿlā mayomkin
@@ -1012,7 +1012,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_72-73
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 211127, 216360
 # phonetic_text = fa lḥamdolillah daḥalt euh sanawī
 # text = fa lḥamdolillah daḥalt euh sanawī
@@ -1025,7 +1025,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_74-77
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 216360, 228005
 # phonetic_text = w= w=euh kont b= ʾāḥod dars ḫoṣūṣī barra ʿand el= misyū bitāʿ =ī ʾillī howwa kān mowaggih el= ~ mowaggih ʿand =na yaʿnī mowaggih ʾawwil
 # text = w euh kont bʾāḥod dars ḫoṣūṣī barra ʿand elmisyū bitāʿī ʾillī howwa kān mowaggih el~ mowaggih ʿandina yaʿnī mowaggih ʾawwil
@@ -1058,7 +1058,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_78-78
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 228005, 230441
 # phonetic_text = w= w=kān mostawā =h rāʾiʿ giddan
 # text = wkān mostawāh rāʾiʿ giddan
@@ -1072,7 +1072,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_79-79
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 230441, 231337
 # phonetic_text = kān momayyaz
 # text = kān momayyaz
@@ -1082,7 +1082,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_80-81
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 231337, 235662
 # phonetic_text = kān momtāz laʾin =oh ʿāš fī= fī=faransā fatra kowayyisa kān ʾāʿid fī= bārīs
 # text = kān momtāz laʾinnoh ʿāš fī faransā fatra kowayyisa kān ʾāʿid fī bārīs
@@ -1103,7 +1103,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_82-82
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 235662, 237953
 # phonetic_text = euh modda ṭawīla
 # text = euh modda ṭawīla
@@ -1114,7 +1114,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_83-83
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 237953, 243110
 # phonetic_text = fa noṭʾ =oh kān yigannin zayy el= el=faransāwiyyīn bizzabṭ fa ḥabbab =nī fī= =ha ʾaktar w= ʾaktar w= kān bi= yišaggaʿ =nī dāyman
 # text = fa noṭʾoh kān yigannin zayy elfaransāwiyyīn bizzabṭ fa ḥabbabnī fīha ʾaktar waktar wkān biyišaggaʿnī dāyman
@@ -1145,7 +1145,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_84-84
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 243110, 244610
 # phonetic_text = laʾin =oh kān ṣāḥib bābā
 # text = laʾinnoh kān ṣāḥib bābā
@@ -1158,7 +1158,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_85-86
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 244610, 251313
 # phonetic_text = w= w=laʾin =nī momtāza maʿā =h bi= gadd fī= l= loġa laʾin ʾanā ḥābba =ha w= ʾillī b= yiḥibb ḥāga b= yitmayyiz fī= =ha fa fiḍil yišaggaʿ =nī ʾaktar w= ʾaktar
 # text = wlaʾinnī momtāza maʿāh bigadd fīlloġa laīin ʾanā ḥābbāha willī biyiḥibb ḥāga biyitmayyiz fīha fa fiḍil yišaggaʿnī ʾaktar wʾaktar
@@ -1197,7 +1197,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_87-87
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 251313, 258250
 # phonetic_text = w= w=howwa w= bābā euh šāyfīn tamayyoz =ī fī= =ha fa ḥabbū ʾinn =ī ʾadḫol ḥāga frinsī w= ʾanā waḥd =ī kont ḥābba kida
 # text = whowwa wbābā euh šāyfīn tamayyozī fīha fa ḥabbū ʾinnī ʾadḫol ḥāga frinsī wanā waḥdī kont ḥābba kida
@@ -1229,7 +1229,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_88-88
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 258250, 265401
 # phonetic_text = fa kont ʿāyza ʾakammil w= w=ʾadḫol ʾayy kolliyya ma= faraʾit =š sanawī euh ma= faraʾit =š ʾalson walla ʾadāb
 # text = fa kont ʿāyza ʾakammil wadḫol ʾayy kolliyya mafaraʾitš sanawī euh mafaraʾitš ʾalson walla ʾadāb
@@ -1256,7 +1256,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_89-89
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 265401, 267953
 # phonetic_text = el= el=mohim ʾin ʾanā ʾadḫol kolliyya fī= =ha frinsī w= ḫalāṣ
 # text = elmohim ʾin ʾanā ʾadḫol kolliyya fīha frinsī wḫalāṣ
@@ -1275,7 +1275,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_90-90
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 267953, 269616
 # phonetic_text = w= w=ʾin ʾakammil fī= el= magāl dā
 # text = wʾin ʾakammil fīlmagāl dā
@@ -1290,7 +1290,7 @@
 
 # sent_id = ARZ_MG_NARR_01_HAK_91-93
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARZ_MG_NARR_01_HAK.WAV
+# sound_url = https://cocoon.huma-num.fr/data/galal/galal-391422511.mp3
 # sent_timecode = 269616, 277308
 # phonetic_text = miš mohtamma ʾawī ʾaštaġal ʾih bass kont mohtamma ʾawī ʾin ʾanā ʾatkallim frinsī bi= bi=ṭalāqa zayy el= frinsiyyīn bizzabṭ
 # text = miš mohtamma ʾawī ʾaštaġal ʾih bass kont mohtamma ʾawī ʾin ʾanā ʾatkallim frinsī biṭalāqa zayy elfrinsiyyīn bizzabṭ
